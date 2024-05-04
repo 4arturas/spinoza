@@ -1649,6 +1649,7 @@ kiekvienas, pusėtinai apmąstęs, gali tai išsklaidyti.
 Pirmos dalies pabaiga
 
 = Antra dalis
+
 == APIE SIELOS PRIGIMTĮ IR KILMĘ
 
 Dabar imuosi dėstyti tai, kas turi būti Dievo,
@@ -1659,7 +1660,7 @@ būdų kilti begalinis daugis. Išdėstysiu tik tai,
 kas mus gali tarsi už rankos atvesti į žmogaus
 sielos ir jos didžiausios palaimos pažinimą.
 
-APIBRĖŽIMAI
+== APIBRĖŽIMAI
 
 1. Kūnu aš laikau modusą, tam tikru ir apibrėžtu
 būdu išreiškiantį Dievo esmę, kiek jis laikomas
@@ -1701,7 +1702,7 @@ susiderina į vieną veikseną taip, kad visi kartu
 sudaro vieno padarinio priežastį, tai juos visus
 laikau vienu atskiru daiktu.
 
-AKSIOMOS
+== AKSIOMOS
 
 1. Žmogaus esmėje neglūdi būtinas egzistavimas,
 t.y. gamtos tvarkoje įmanoma ir kad tas ar
