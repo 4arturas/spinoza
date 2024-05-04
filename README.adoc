@@ -1,14 +1,18 @@
-# ETIKA,
-## ĮRODYTA GEOMETRIJOS METODU
-## IR SUSKIRSTYTA PENKIAS DALIS,
-### kuriose kalbama:
+:tip-caption: 💡
+
+= ETIKA,
+
+===== ĮRODYTA GEOMETRIJOS METODU
+===== IR SUSKIRSTYTA PENKIAS DALIS,
+
+=== kuriose kalbama:
 - I. Apie Dievą
-- II. Apie sielos prigimtį ir kilmę
+- II. <<APIE SIELOS PRIGIMTĮ IR KILMĘ>>
 - III. Apie emocijų kilmę ir prigimtį
 - IV. Apie žmogaus vergiją, arba apie emocijų jėgas
 - V. Apie intelekto galią, arba apie žmogaus laisvę
 
-## APIBRĖŽIMAI
+== APIBRĖŽIMAI
 
 1. Savęs priežastimi laikau tai, kieno esmėje
    glūdi egzistavimas; kitaip tariant, tai, kieno prigimtis
@@ -43,13 +47,14 @@
 8. Amžinybe laikau patį egzistavimą, kiek jis
    suvokiamas kaip būtinai išplaukiantis iš paties
    amžino daikto apibrėžimo.
+[TIP]
    Paaiškinimas. Juk toks egzistavimas suvokiamas
    kaip amžina tiesa, kaip ir daikto esmė; todėl
    jis negali būti aiškinamas kaip trukmė arba laikas,
    nors trukmė gali būti suvokiama neturinti
    pradžios ir pabaigos.
 
-## AKSIOMOS
+== AKSIOMOS
 
 1. Visa, kas yra, egzistuoja arba savaime, arba
    kitame.
@@ -67,7 +72,7 @@
 7. Kas gali būti įsivaizduojamas kaip neegzistuojantis,
    to esmėje neglūdi egzistavimas.
 
-## TEOREMOS
+== TEOREMOS
 
 1. teorema:
 Substancija savo prigimtimi pirmesnė už savo būsenas.
@@ -1642,3 +1647,79 @@ esu įrodęs 16 teoremoje.
 kiekvienas, pusėtinai apmąstęs, gali tai išsklaidyti.
 
 Pirmos dalies pabaiga
+
+= Antra dalis
+== APIE SIELOS PRIGIMTĮ IR KILMĘ
+
+Dabar imuosi dėstyti tai, kas turi būti Dievo,
+arba amžino ir begalinio esinio, esmės būtinas sekmuo.
+Žinoma, bus išdėstyta ne viskas - juk I d.
+16 teoremoje įrodėme, kad iš Dievo esmės turi begale
+būdų kilti begalinis daugis. Išdėstysiu tik tai,
+kas mus gali tarsi už rankos atvesti į žmogaus
+sielos ir jos didžiausios palaimos pažinimą.
+
+APIBRĖŽIMAI
+
+1. Kūnu aš laikau modusą, tam tikru ir apibrėžtu
+būdu išreiškiantį Dievo esmę, kiek jis laikomas
+tįsiu daiktu (žr. I d. 25 teor. pr.).
+
+2. Teigiu, kad kurio nors daikto esmei priklauso
+tai, dėl ko, jei tai duota, daiktas būtinai pripažįstamas
+esančiu, o jei to nėra, daiktas būtinai
+sunaikinamas; kitaip tariant, tai, be ko daiktas ir,
+atvirkščiai, kas be daikto negali nei egzistuoti, nei
+būti suvokta.
+
+3. Idėja laikau sielos sąvoką, kurią siela sudaro
+todėl, kad ji yra mąstantis daiktas.
+Paaiškinimas. Sakau verčiau „sąvoka“ (conceptus),
+o ne „suvokimas“ (perceptio), nes žodis „suvokimas“, atrodo, nurodo sielą objekto atžvilgiu esant
+pasyvią; o žodis „sąvoka“, atrodo, išreiškia sielos
+veikseną.
+
+4. Adekvačia idėja laikau idėją, kuri, imama
+pati savaime, be santykio su objektu, turi visas
+tikros idėjos savybes arba vidinius požymius.
+Paaiškinimas. Sakau „vidinius požymius“, kad
+išskirčiau išorinį požymį - idėjos ir jos objekto
+suderinamumą.
+
+5. Trukmė yra neapibrėžtas egzistavimo tęsimasis.
+Paaiškinimas. Sakau „neapibrėžtas“, nes egzistavimo
+tęsimasis niekaip negali būti determinuotas
+paties egzistuojančio daikto prigimties, taip
+pat ir veikiančiosios priežasties, kuri kaip tik būtinai
+nustato daikto egzistavimą, o ne jį pašalina.
+
+6. Realumu ir tobulumu aš laikau tą patį.
+
+7. Atskirais daiktais laikau baigtinius ir riboto
+egzistavimo daiktus. O jei daugiau atskirų daiktų
+susiderina į vieną veikseną taip, kad visi kartu
+sudaro vieno padarinio priežastį, tai juos visus
+laikau vienu atskiru daiktu.
+
+AKSIOMOS
+
+1. Žmogaus esmėje neglūdi būtinas egzistavimas,
+t.y. gamtos tvarkoje įmanoma ir kad tas ar
+kitas žmogus egzistuotų, ir kad neegzistuotų.
+
+2. Žmogus mąsto.
+
+3. Mąstymo modusai, tokie kaip meilė, troškimas
+ir visos kitos vadinamosios sielos aistros, pasireiškia tik tada, kai tas pats individas turi mylimo,
+trokštamo ir 1.1, daikto idėją. Tačiau idėją
+galima turėti ir tada, kai nėra jokio kito mąstymo
+moduso.
+
+4. Mes juntame, kad koks nors kūnas būna įvairiai
+veikiamas.
+
+5. Mes nejuntame ir nesuvokiame jokių kitų
+atskirų daiktų, išskyrus kūnus ir mąstymo modusus.
+
+Postulatus žr. po 13 teoremos.
+
