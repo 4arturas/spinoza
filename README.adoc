@@ -1724,3 +1724,1914 @@ atskirų daiktų, išskyrus kūnus ir mąstymo modusus.
 
 Postulatus žr. po 13 teoremos.
 
+
+1. teorema:
+Mąstymas yra Dievo atributas, kitaip tariant, Dievas
+yra mąstantis daiktas.
+Įrodymas. Atskiros mintys, kitaip tariant, ta ar
+kita mintis, yra modusai, kurie tam tikru ir apibrėžtu
+būdu išreiškia Dievo prigimtį (pagal I d.
+25 teor. pr.). Vadinasi, Dievui būdingas (pagal I d.
+5 apibr.) atributas, kurio sąvokoje glūdi visos atskiros
+mintys ir kurio dėka jos yra suprantamos.
+Taigi mąstymas yra vienas iš begalės Dievo atributų,
+išreiškiančių amžiną ir begalinę Dievo esmę
+(žr. I d. 6 apibr.), kitaip tariant, Dievas yra mąstantis
+daiktas. Tai ir reikėjo įrodyti.
+Pastaba. Si teorema taip pat paaiškėja iš to,
+kad mes galime turėti begalinio mąstančio esinio
+sąvoką. Juk kuo daugiau mąstantis esinys gali
+mąstyti, tuo, mūsų supratimu, jis realesnis ir tobulesnis.
+Vadinasi, esinys, galintis begale būdų
+mąstyti begalinį daugį, dėl gebėjimo mąstyti būtinai
+yra begalinis. Tad kadangi, atsižvelgdami tik
+į mąstymą, šį esinį suvokiame kaip begalinį, tai
+mąstymas būtinai (pagal I d. 4 ir 6 apibr.) yra
+vienas iš begalės Dievo atributų. Tai ir norėjome
+įrodyti.
+
+2. teorema:
+Tįsumas yra Dievo atributas, kitaip tariant, Dievas
+yra tįsus daiktas.
+Įrodymas. Ši teorema įrodoma tuo pačiu būdu,
+kuriuo įrodyta ankstesnioji teorema.
+3. teorema:
+Dievas būtinai turi tiek savo esmės, tiek visko, kas
+iš jo esmės būtinai kyla, idėją.
+Įrodymas. Juk Dievas (pagal šios d. 1 teor.)
+begalinį daugį gali mąstyti begale būdų, kitaip
+tariant (pagal I d. 16 teor. tai tas pat), jis gali
+sudaryti savo esmės ir visko, kas iš jos būtinai
+kyla, idėją. Bet visa, kas yra Dievo valdžioje, būtinai
+egzistuoja (pagal I d. 35 teor.). Vadinasi, tokia
+idėja būtinai egzistuoja ir (pagal I d. 15 teor.)
+ne kitaip, o tik Dieve. Tai ir reikėjo įrodyti.
+[TIP]
+Pastaba. Dauguma žmonių Dievo galią supranta
+kaip Dievo laisvą valią ir teisę į visa, kas egzistuoja,
+todėl visuotinai manoma, kad visa yra atsitiktina.
+Juk, sako, Dievas turi galią viską sugriauti
+ir paversti į nieką. Be to, Dievo galią labai dažnai
+palygina su karalių galia. Bet mes I d. 32 teoremos
+1 ir 2 prieduose tai paneigėme ir I d. 16 teoremoje
+parodėme, kad Dievas veikia dėl to paties
+būtinumo, dėl kurio pats save pažįsta, t.y. kaip iš
+dieviškosios prigimties būtinumo išplaukia (tai visi
+vienu balsu tvirtina), kad Dievas pats save pažįsta,
+taip ir dėl to paties būtinumo išplaukia, kad
+Dievas begale būdų veikia be galo daug. Be to,
+I d. 34 teoremoje parodėme, kad Dievo galia yra
+ne kas kita, kaip jo veikiančioji esmė, ir todėl kaip
+negalime įsivaizduoti, kad Dievas neveikia, taip
+negalime ir įsivaizduoti, kad jis neegzistuoja.
+Negana to, jei derėtų toliau tai plėtoti, aš galėčiau
+atskleisti, kad toji galia, kurią dauguma žmonių
+priskiria Dievui, yra ne tik žmogiška (o tai
+rodo, kad dauguma žmonių Dievą suvokia kaip
+žmogų arba pagal žmogaus paveikslą), bet joje glūdi
+net ir bejėgiškumas. Tačiau nenoriu kelis kartus
+kalbėti apie tą patį. Tik primygtinai prašau
+skaitytoją ne kartą apgalvoti tai, kas apie šį dalyką
+pasakyta I dalyje nuo 16 teoremos iki pabaigos.
+Juk niekas nepajėgs deramai suprasti mano
+minties, jei uoliai nesirūpins nepainioti Dievo galios
+su žmogiškąja galia arba karalių teise.
+
+4. teorema:
+Dievo idėja, iš kurios begale būdų kyla begalinis
+daugis, tegali būti vienintelė.
+Įrodymas. Begalinis intelektas apima (pagal I d.
+30 teor.) tik Dievo atributus ir jo būsenas. Bet
+Dievas yra vienintelis (pagal I d. 14 teor. 1 pr.).
+Vadinasi, Dievo idėja, iš kurios begale būdų kyla
+begalinis daugis, tegali būti vienintelė. Tai ir reikėjo
+įrodyti.
+
+5. teorema:
+Idėjų formalios būties priežastimi Dievas pripažįstamas
+tik tiek, kiek jis laikomas mąstančiu daiktu, o ne
+kiek jis atskleidžiamas kuriuo nors kitu atributu. Vadinasi,
+tiek Dievo atributų idėjų, tiek atskirų daiktų idėjų
+veikiančioji priežastis - ne patys jų objektai, arba
+suvokti daiktai, bet pats Dievas, kiek jis yra mąstantis
+daiktas.
+Įrodymas. Tai aišku iš šios dalies 3 teoremos.
+Juk joje priėjome išvadą, jog Dievas gali sudaryti
+savo esmės ir visko, kas iš jos būtinai išplaukia,
+idėją vien tik dėl to, kad jis yra mąstantis daiktas,
+o ne dėl to, kad yra savo idėjos objektas. Todėl
+idėjų formalios būties priežastimi pripažįstamas
+Dievas, kiek jis yra mąstantis daiktas.
+Dar kitaip tai galima įrodyti šiuo būdu. Idėjų
+formali būtis yra mąstymo modusas (tai savaime
+aišku), t.y. (pagal I d. 25 teor. pr.) modusas, tam
+tikru būdu išreiškiantis Dievo, kiek jis yra mąstantis
+daiktas, prigimtį. O todėl (pagal I d. 10 teor.)
+jame neglūdi Dievo jokio kito atributo sąvoka, ir,
+vadinasi, šis modusas (pagal I d. 4 aks.) yra ne
+kurio nors kito atributo, o tik mąstymo padarinys.
+Todėl idėjų formalios būties priežastimi Dievas pripažįstamas
+tik tiek, kiek jis laikomas mąstančiu
+daiktu, ir t.t. Tai ir reikėjo įrodyti.
+
+6. teorema:
+Dievas yra bet kurio atributo modusų priežastis tik
+tiek, kiek jis traktuojamas tik to atributo, kurio modusai jie yra, požiūriu, o ne kurio nors kito atributo požiūriu.
+Įrodymas. Kiekvienas atributas suvokiamas
+pats savaime be kurio nors kito paramos (pagal
+I d. 10 teor.). Todėl kiekvieno atributo modusuose
+glūdi savojo atributo sąvoka, o ne kurio nors kito,
+ir, vadinasi (pagal I d. 4 aks.), Dievas yra jų priežastis
+tik tiek, kiek jis traktuojamas tik to atributo,
+kurio modusai jie yra, požiūriu, o ne kurio nors
+kito atributo požiūriu. Tai ir reikėjo įrodyti.
+Priedas. Iš to išplaukia, jog daiktų, kurie nėra
+mąstymo modusai, formali būtis kyla iš dieviškosios
+prigimties ne todėl, kad Dievas pirmiau pažino
+šiuos daiktus: idėjų atvaizduoti daiktai kyla ir
+išvedami iš savo atributų tuo pačiu būdu, kuriuo,
+kaip parodėme, ir idėjos kyla iš mąstymo atributo.
+
+7. teorema:
+Idėjų tvarka ir sąryšis tokie patys kaip daiktų tvarka
+ir sąryšis.
+Įrodymas. Tai aišku iš I d. 4 aksiomos. Juk
+kiekvieno priežastingai sąlygoto daikto idėja priklauso
+nuo priežasties, kurios padarinys ji yra,
+pažinimo.
+Priedas. Iš to išplaukia, kad Dievo mąstymo
+galia lygi jo aktualiai veikimo galiai. Vadinasi,
+kas tik formaliai išplaukia iš begalinės Dievo prigimties,
+visa tai ta pačia tvarka ir tuo pačiu sąryšiu
+objektyviai kyla Dieve iš jo idėjos.
+[TIP]
+Pastaba. Prieš einant toliau mums reikia čia
+prisiminti tai, ką parodėme anksčiau, būtent kad
+visa tai, ką tik begalinis intelektas gali suvokti
+kaip substancijos esmę, priklauso tik vienintelei
+substancijai ir kad, vadinasi, mąstanti substancija
+ir tįsi substancija - tai viena ir ta pati substancija,
+suprantama tai vieno, tai kito atributo požiūriu.
+Lygiai taip pat tįsumo modusas ir šio moduso
+idėja yra vienas ir tas pats daiktas, nors išreikštas
+dviem būdais. Atrodo, jog tai tarsi pro rūką
+įžvelgė kai kurie žydų rašytojai, kurie kaip tik
+teigė, kad Dievas, Dievo intelektas ir jo mąstomi
+daiktai yra viena ir tas pat. Pavyzdžiui, gamtoje
+egzistuojantis apskritimas ir egzistuojančio apskritimo
+idėja, kuri taip pat yra Dieve, yra vienas ir
+tas pats daiktas, išreikštas skirtingais atributais.
+Tad ar gamtą suvoksime tįsumo atributo, ar mąstymo
+atributo, ar kurio nors kito atributo požiūriu,
+visuomet aptiksime vieną ir tą pačią tvarką,
+kitaip tariant, vieną ir tą patį priežasčių sąryšį,
+t.y. tų pačių daiktų seką.
+Ir jei aš pasakiau, kad Dievas yra, pavyzdžiui,
+apskritimo idėjos priežastis tik tiek, kiek jis yra
+mąstantis daiktas, o apskritimo priežastis jis yra
+tik tiek, kiek jis - tįsus daiktas, tai tik todėl, kad
+apskritimo idėjos formali būtis gali būti pažinta
+tik remiantis kitų mąstymo modusu kaip artimiausiąja
+priežastimi, o tas kitas modusas - vėl kitu,
+ir taip iki begalybės. Tad kol daiktus laikome mąstymo
+modusais, visos gamtos tvarką, arba priežasčių
+sąryšį, turime aiškinti vien tik mąstymo
+atributu; o kiek juos laikome tįsumo modusais, turime visos gamtos tvarką aiškinti vien tik tįsumo
+atributu. Tą patį manau ir apie kitus atributus.
+Todėl daiktų pačių savaime priežastis iš tikrųjų
+yra Dievas, kiek jį sudaro begalė atributų.
+Šiuo metu aš negaliu šito išdėstyti aiškiau.
+
+8. teorema:
+Atskirų daiktų, arba modusų, kurie neegzistuoja,
+idėjas begalinė Dievo idėja turi apimti taip, kaip Dievo
+atributuose glūdi atskirų daiktų, arba modusų, formalios
+esmės.
+Įrodymas. Ši teorema aiški iš ankstesnės teoremos;
+dar aiškiau ji suprantama iš ankstesnės pastabos.
+Priedas. Iš to išplaukia, kad kol atskiri daiktai
+egzistuoja tik tiek, kiek juos apima Dievo atributai,
+jų objektyvi būtis, arba idėjos, egzistuoja tik
+tiek, kiek egzistuoja begalinė Dievo idėja. O kai
+apie atskirus daiktus sakoma, kad jie egzistuoja
+ne tik tiek, kiek juos apima Dievo atributai, bet ir
+kiek, kaip sakoma, jie trunka laike, tai jų idėjoje
+taip pat glūdės egzistavimas, kurio dėka, sakoma,
+jie trunka laike.
+[TIP]
+Pastaba. Jei kas pageidautų pavyzdžio, idant
+šis dalykas būtų išsamiau išaiškintas, tai aš tikrai
+negalėčiau pateikti nė vieno, kuris adekvačiai
+išaiškintų kalbamąjį dalyką, nes jis vienintelis
+toks. Vis dėlto pamėginsiu tai, kiek įmanoma, nušviesti.
+[TIP]
+Apskritimo prigimtis kaip tik tokia, kad visi
+stačiakampiai, sudaryti iš jame susikertančių tiesių
+linijų atkarpų, tarpusavyje yra lygūs. Todėl
+apskritime telpa be galo daug lygių stačiakampių.
+Tačiau apie kiekvieną iš jų tegalima pasakyti, kad
+jis egzistuoja tik tiek, kiek egzistuoja apskritimas,
+ir kurio nors iš šių stačiakampių idėja gali būti
+vadinama egzistuojančia tik tiek, kiek ją apima
+apskritimo idėja. Dabar tarkime, kad iš begalės
+tokių stačiakampių egzistuoja tik du, būtent sudaryti
+iš linijų E ir D atkarpų. Tada, suprantama,
+ir jų idėjos egzistuoja ne tik tiek, kiek jas apima
+apskritimo idėja, bet dar ir tiek, kiek jose glūdi tų
+stačiakampių egzistavimas, ir tuo jos skiriasi nuo
+visų kitų stačiakampių idėjų.
+
+9. teorema:
+Tikrovėje egzistuojančio atskiro daikto idėjos priežastis
+yra Dievas - ne kiek jis begalinis, bet kiek jis
+laikomas sudarančiu kitą tikrovėje egzistuojančio atskiro
+daikto idėją, kurios priežastis taip pat yra Dievas,
+nes jis sudaro trečią idėją, ir t.t. iki begalybės.
+Įrodymas. Tikrovėje egzistuojančio atskiro daikto
+idėja yra atskiras mąstymo modusas, skirtingas nuo visų kitų modusų (pagal 8 teor. pr. ir
+past.), taigi (pagal šios d. 6 teor.) jo priežastis yra
+Dievas tik tiek, kiek jis yra mąstantis daiktas.
+Tačiau (pagal I d. 28 teor.) ne kiek jis yra absoliučiai
+mąstantis daiktas, bet kiek jis laikomas esančiu
+mąstymo kito moduso būvyje, kurio priežastis
+taip pat yra Dievas, kiek jis yra vėl kito mąstymo
+moduso būvyje, ir taip iki begalybės. Bet idėjų
+tvarka ir sąryšis (pagal šios d. 7 teor.) tokie patys
+kaip priežasčių tvarka ir sąryšis. Vadinasi, kurios
+nors atskiros idėjos priežastis yra kita idėja, kitaip
+tariant, Dievas, kiek jis laikomas sudarančiu
+tą kitą idėją, kurios priežastis taip pat yra Dievas,
+nes jis sudaro trečią idėją, ir t.t. iki begalybės.
+Tai ir reikėjo įrodyti.
+Priedas. Apie visa, kas vyksta kurios nors atskiros
+idėjos objekte, Dievas žino tik tiek, kiek jis
+turi to objekto idėją.
+Įrodymas. Dievas turi idėją viso to, kas vyksta
+kurios nors idėjos objekte (pagal šios d. 3 teor.),
+ne kiek jis begalinis, bet kiek jis laikomas sudarančiu
+kitą atskiro daikto idėją (pagal 9 teor.).
+Bet idėjų tvarka ir sąryšis (pagal šios d. 7 teor.)
+tokie patys kaip daiktų tvarka ir sąryšis. Vadinasi,
+apie tai, kas vyksta kuriame nors atskirame
+objekte, Dievas žino tik tiek, kiek jis turi to objekto
+idėją. Tai ir reikėjo įrodyti.
+
+10. teorema:
+Substancialumas nebūdingas žmogaus esmei, kitaip
+tariant, substancija nesudaro žmogaus fortuos. įrodymas. Juk substancialumas apima būtiną
+egzistavimą (pagal I d. 7 teor.). Tad jei žmogaus
+esmei būtų būdingas substancialumas, tai kartu
+su duotąja substancija būtinai būtų duotas žmogus
+(pagal šios d. 2 apibr.) ir, vadinasi, žmogus
+būtinai egzistuotų, o tai (pagal šios d. 1 aks.) nesąmonė.
+Vadinasi, ir t.t. Tai ir reikėjo įrodyti.
+Pastaba. Si teorema taip pat įrodoma remiantis
+I d. 5 teorema, būtent tuo, kad nėra dviejų tos
+pačios prigimties substancijų. O kadangi žmonių
+gali egzistuoti daug, tai, kas sudaro žmogaus formą,
+nėra substancija. Be to, ši teorema aiški iš
+kitų substancijos savybių, būtent iš to, kad substancija
+savo prigimtimi begalinė, nekintanti, nedali
+ir t.t., - tai kiekvienas lengvai gali pastebėti.
+Priedas. Iš to išplaukia, kad žmogaus esmę sudaro
+tam tikros Dievo atributų modifikacijos. Juk
+substancialumas (pagal šią teor.) nebūdingas žmogaus
+esmei. Vadinasi, žmogaus esmę (pagal I d.
+15 teor.) sudaro kas nors, kas yra Dieve ir kas be
+Dievo negali nei egzistuoti, nei būti suvokiama,
+kitaip tariant (pagal I d. 25 teor. pr.), būsena,
+arba modusas, išreiškiantis Dievo prigimtį tam
+tikru ir apibrėžtu būdu.
+Pastaba. Be abejo, visi privalo sutikti, kad be
+Dievo niekas negali nei egzistuoti, nei būti suvokiama.
+Juk visi pripažįsta, kad visų daiktų - tiek
+jų esmės, tiek egzistavimo - vienintelė priežastis
+yra Dievas, t.y. kad Dievas yra daiktų priežastis,
+kaip sakoma, ne tik jų tapsmo, bet ir jų būties
+atžvilgiu. Tačiau kol kas dauguma sako, kad kurio nors daikto esmei priklauso tai, be ko daiktas
+negali nei egzistuoti, nei būti suvokiamas, ir todėl
+mano, kad dieviškoji prigimtis būdinga sukurtų
+daiktų esmei arba kad sukurti daiktai gali egzistuoti
+ir būti suvokiami be Dievo, arba, o tai labiau
+tikėtina, save laiko nepajėgiais teisingai spręsti.
+Manau, kad šito priežastis ta, jog filosofuojant nesilaikyta
+tvarkos. Juk dieviškąją prigimti, kurią
+reikėjo apmąstyti pirmiausia, nes ji pirmesnė ir
+už pažinimą, ir už gamtą, pažinimo tvarkoje jie
+paliko paskiausią, o daiktus, vadinamus jutimų
+objektais, - pačius pirmutinius. Todėl ir atsitiko
+taip, kad, apmąstydami gamtos daiktus, apie dieviškąją
+prigimtį jie mąstė mažiausiai, ir kai paskiau
+ėmė mąstyti apie dieviškąją prigimtį, tai apie
+jokį daiktą jie negalėjo tiek mažai mąstyti, kaip
+apie savo pradinius įsivaizdavimus, kuriais grindė
+gamtos daiktų pažinimą, nes tai visai negalėjo
+padėti pažinti dieviškąją prigimtį. Todėl nenuostabu,
+kad jie visur sau prieštaraudavo.
+Bet apie tai nekalbėsiu. Juk čia ketinau tik
+nurodyti priežastį, kodėl aš nesakiau, kad kurio
+nors daikto esmei priklauso tai, be ko daiktas negali
+nei egzistuoti, nei būti suvokiamas, - būtent
+todėl, kad atskiri daiktai be Dievo negali nei egzistuoti,
+nei būti suvokiami, tačiau Dievas jų prigimčiai
+nepriklauso. Tačiau aš sakiau, kad daikto
+esmę sudaro tai, dėl ko, jei tai duota, daiktas būtinai
+pripažįstamas esančiu, o jei to nėra, daiktas
+sunaikinamas; kitaip tariant, tai, be ko daiktas ir,
+atvirkščiai, kas be daikto negali nei egzistuoti, nei
+būti suvokta.
+
+11. teorema:
+Pirma, kas sudaro žmogaus sielos faktiškąją būtį,
+yra ne kas kita, kaip kurio nors tikrovėje egzistuojančio
+atskiro daikto idėja.
+Įrodymas. Žmogaus esmę (pagal 10 teor. pr.)
+sudaro tam tikri Dievo atributų modusai, būtent
+(pagal šios d. 2 aks.) mąstymo modusai. Iš jų visų
+(pagal šios d. 3 aks.) pirmesnė savo prigimtimi
+yra idėja, ir jai egzistuojant tame pačiame individe
+(pagal tą pačią aks.) turi egzistuoti ir kiti modusai
+(būtent tie, už kuriuos idėja pirmesnė savo
+prigimtimi). Vadinasi, idėja yra tas pirmasis dalykas,
+kuris sudaro žmogaus sielos būtį. Tačiau ji
+nėra neegzistuojančio daikto idėja, nes tokiu atveju
+(pagal šios d. 8 teor. pr.) pati idėja negalėtų
+būti vadinama egzistuojančia. Vadinasi, ji bus tikrovėje
+egzistuojančio daikto idėja. Bet ne begalinio
+daikto, nes begalinis daiktas ( pagal I d. 21 ir
+22 teor.) turi visada būtinai egzistuoti, o tai (pagal
+šios d. 1 aks.) neįmanoma. Vadinasi, pirma,
+kas sudaro žmogaus sielos faktiškąją būtį, yra tikrovėje
+egzistuojančio atskiro daikto idėja. Tai ir
+reikėjo įrodyti.
+Priedas. Iš to išplaukia, kad žmogaus siela yra
+Dievo begalinio intelekto dalis. Todėl kai sakome,
+jog žmogaus siela suvokia viena ar kita, tai tik
+sakome, kad Dievas - ne kiek jis begalinis, bet
+kiek jį išreiškia žmogaus sielos prigimtis, kitaip
+tariant, kiek jis sudaro jos esmę - turi tą ar kitą
+idėją. O sakydami, kad Dievas turi tą ar kitą idėją
+- ne tik kiek jis sudaro žmogaus sielos esmę,
+bet ir kiek jis kartu su žmogaus siela turi dar kito daikto idėją, - mes sakome, kad žmogaus siela
+daiktą pažįsta iš dalies, arba neadekvačiai.
+Pastaba. Be abejo, skaitytojai čia sustos, ir jiems
+daug kas ateis į galvą, kas juos sutrikdys. Todėl
+prašau jų iš lėto eiti su manimi toliau ir apie tai
+nespręsti tol, kol visko neperskaitys.
+
+12. teorema:
+Kas tik pasitaiko žmogaus sielą sudarančios idėjos
+objekte, žmogaus sielos turi būti suvokta, kitaip tariant,
+sieloje būtinai turi egzistuoti šito idėja. Tad jei
+žmogaus sielą sudarančios idėjos objektas yra kūnas,
+tai tame kūne negali pasitaikyti nieko, ko siela nesuvoktų.
+Įrodymas. Juk kas tik pasitaiko kurios nors idėjos
+objekte, tai būtinai pažįsta Dievas (pagal šios
+d. 9 teor. pr.), kiek jis laikomas sudarančiu to
+objekto idėją, t.y. (pagal 11 teor.) kiek jis sudaro
+kurio nors daikto sielą. Taigi, kas tik pasitaiko
+žmogaus sielą sudarančios idėjos objekte, tai būtinai
+pažįsta Dievas, kiek jis sudaro žmogaus sielos
+prigimtį, t.y. (pagal 11 teor. pr.) to objekto
+pažinimas būtinai bus sieloje, kitaip tariant, siela
+jį suvokia. Tai ir reikėjo įrodyti.
+Pastaba. Si teorema akivaizdi ir dar aiškiau
+suprantama iš šios dalies 7 teoremos pastabos,
+kurią ir žr.
+
+13. teorema:
+Žmogaus sielą sudarančios idėjos objektas yra kūnas,
+kitaip tariant, tam tikras tikrovėje egzistuojantis
+tįsumo modusas, ir niekas kitas. Įrodymas. Juk jei kūnas nebūtų žmogaus sielos
+objektas, tai kūno būsenų idėjos būtų Dieve (pagal
+šios d. 9 teor. pr.) ne kiek jis sudaro mūsų
+sielą, bet kiek jis sudaro kito daikto sielą, t.y. (pagal
+šios d. 11 teor. pr.) mūsų sieloje nebūtų kūno
+būsenų idėjų. Tačiau (pagal šios d. 4 aks.) mes
+turime kūno būsenų idėjas. Vadinasi, žmogaus sielą
+sudarančios idėjos objektas yra kūnas, be to
+(pagal 11 teor.), egzistuojantis tikrovėje. Be to, jei,
+be kūno, būtų dar kitas sielos objektas, tai mūsų
+sieloje būtinai turėtų būti kurio nors jo padarinio
+idėja, nes (pagal I d. 36 teor.) nėra nieko, iš ko
+nekiltų koks nors padarinys. Bet (pagal šios d.
+5 aks.) mūsų sieloje jokios šito idėjos nėra. Vadinasi,
+mūsų sielos objektas yra egzistuojantis kūnas,
+ir niekas kitas. Tai ir reikėjo įrodyti.
+Priedas. Iš to išplaukia, kad žmogus susideda
+iš sielos ir kūno ir kad žmogaus kūnas egzistuoja
+taip, kaip jį juntame.
+Pastaba. Iš to suprantame ne tik tai, kad žmogaus
+siela suvienyta su kūnu, bet ir tai, kaip reikia
+suprasti sielos ir kūno susivienijimą. Tačiau
+niekas negalės šio susivienijimo adekvačiai, arba
+tiksliai, suprasti, pirma adekvačiai nepažinęs mūsų
+kūno prigimties. Juk tai, ką iki šiol išdėstėme,
+yra labai bendro pobūdžio ir su žmogumi susiję ne
+daugiau kaip su kitais individais, kurie visi įsielinti,
+nors skirtingu mastu. Juk Dieve būtinai egzistuoja
+kiekvieno daikto idėja, kurios priežastis
+yra Dievas, lygiai kaip ir žmogaus kūno idėja; o
+todėl visa, ką pasakėme apie žmogaus kūno idėją,
+būtinai reikia pasakyti ir apie bet kurio daikto idėją. Tačiau mes negalime neigti ir to. kad idėjos
+tarp savęs skiriasi kaip ir patys objektai, kad viena
+idėja būna pranašesnė už kitą ir joje glūdi daugiau
+realybės, lygiai kaip vienos idėjos objektas
+būna pranašesnis už kitos objektą ir jame glūdi
+daugiau realybės. Todėl kad nustatytume, kuo
+žmogaus siela skiriasi nuo kitų sielų ir kuo kitas
+pranoksta, mums būtina pažinti, kaip sakėme, jos
+objekto, t.y. žmogaus kūno, prigimtį. Bet jos čia
+aiškinti aš negaliu, ir tai nėra būtina tam, ką noriu
+įrodyti. Sakau tik apskritai, kad kuo labiau už
+kitus koks nors kūnas geba vienu metu daug veikti
+ir patirti, tuo labiau už kitus jo siela geba vienu
+metu daug suvokti; ir kuo daugiau kurio nors kūno
+veiksmų priklauso tik nuo jo paties ir kuo mažiau
+jo veikime dalyvauja kiti kūnai, tuo labiau jo
+siela geba tiksliai suprasti. Iš to mes galime pažinti
+vienos sielos pranašumą prieš kitas, paskui
+įžvelgti ir priežastį, kodėl mes savo kūną pažįstame
+labai neaiškiai, ir daug ką kita, ką aš paskui
+iš šito išsamprotausiu. Todėl manau, kad verta
+tai kruopščiai išdėstyti ir įrodyti, o tam būtina
+pirma šį bei tą pasakyti apie kūnų prigimtį.
+
+1) aksioma
+Visi kūnai arba juda, arba yra rimtyje.
+
+2) aksioma
+Kiekvienas kūnas juda tai lėčiau, tai greičiau.
+
+1) lema
+Kūnai tarp savęs skiriasi judėjimu ir rimtimi, greičiu
+ir lėtumu, bet ne substancija.
+Įrodymas. Manau, kad šios lemos pirma dalis
+savaime aiški. O kad kūnai nesiskiria savo substancija,
+tai aišku tiek iš I d. 5 teoremos, tiek iš
+I d. 8 teoremos, o aiškiausia iš to, kas pasakyta
+I d. 15 teoremos pastaboje.
+
+2) lema
+Visi kūnai kai kuo sutampa.
+Įrodymas. Juk visi kūnai sutampa tuo, kad juose
+glūdi vieno ir to paties atributo sąvoka (pagal šios
+d. 1 apibr.). Be to, tuo, kad visi jie gali judėti tai
+lėčiau, tai greičiau ir apskritai - tai judėti, tai
+būti rimtyje.
+
+3) lema
+judantis arba rimtyje esantis kūnas turėjo būti determinuotas
+judėti arba būti rimtyje kito kūno, kuris
+savo ruožtu buvo determinuotas judėti arba būti rimtyje
+dar kito kūno, o pastarasis - vėl kito, ir taip iki
+begalybės.
+Įrodymas. Kūnai (pagal šios d. 1 apibr.) yra
+atskiri daiktai, kurie (pagal 1 lemą) tarp savęs
+skiriasi judėjimo ir rimties požiūriu; taigi (pagal
+I d. 28 teor.) kiekvienas kūnas būtinai turėjo būti
+determinuotas judėti arba būti rimtyje kito atskiro
+daikto, būtent (pagal šios d. 6 teor.) kito kūno, kuris (pagal 1 aks.) taip pat juda arba yra rimtyje.
+Bet jis taip pat (tuo pačiu pagrindu) galėjo judėti
+arba būti rimtyje ne kitaip, o tik dar kito
+kūno determinuotas judėti arba būti rimtyje, o
+pastarasis (tuo pačiu pagrindu) - vėl kito, ir taip
+iki begalybės. Tai ir reikėjo įrodyti.
+Priedas. Iš to išplaukia, kad judantis kūnas tol
+juda, kol kito kūno bus determinuotas būti rimtyje;
+ir rimtyje esantis kūnas tol bus rimtyje, kol
+kito kūno bus determinuotas judėti. Žinoma, tai
+savaime aišku. Juk tardamas, kad kūnas, pavyzdžiui,
+A, yra rimtyje, ir neatsižvelgdamas į kitus
+judančius kūnus apie kūną A nieko negalėsiu pasakyti,
+tik tai, kad jis yra rimtyje. O jei paskui
+atsitiks taip, kad kūnas A ims judėti, tai, žinoma,
+šitai negali kilti iš to, kad jis buvo rimtyje, nes
+rimties sekmuo galėjo būti tik kūno A rimtis. Jei,
+priešingai, tariama, kad kūnas A juda, tai, atsižvelgdami
+tik į A, nieko apie jį negalėsime tvirtinti,
+o tik tai, kad jis juda. O jei paskui atsitiks taip,
+kad kūnas A bus rimtyje, tai, žinoma, šitai negali
+kilti iš judėjimo, kurį buvo įgijęs, nes judėjimo
+sekmuo galėjo būti tik kūno A judėjimas. Tad rimtis
+kyla iš daikto, kurio nebuvo kūne A, būtent iš
+išorinės priežasties, determinavusios kūno A rimtį.
+
+1) aksioma
+Visos kurio nors kūno būsenos, sukeltos kito
+kūno poveikio, kyla iš paveikto kūno prigimties ir
+kartu iš poveikį sukeliančio kūno prigimties. Taigi
+vienas ir tas pats kūnas juda skirtingai priklausomai nuo jį judinančių kūnų skirtingos prigimties,
+ir, priešingai, skirtingi kūnai juda skirtingai
+judinami vieno ir to paties kūno.
+Kai judantis kūnas suduoda į kitą, rimtyje esantį,
+kūną, kurio jis negali išjudinti, jis atmušamas,
+kad nepaliautų judėti; ir kampas, kurį sudaro atmušto
+judėjimo linija su ta rimtyje esančio kūno
+plokštuma, į kurią suduoda judąs kūnas, lygus
+kampui, kurį sudaro pradinio judėjimo linija su ta
+pačia plokštuma.
+Tiek apie paprasčiausius kūnus, būtent tuos,
+kurie skiriasi tik judėjimu ir rimtimi, greičiu ir
+lėtumu. Dabar pereisime prie sudėtinių kūnų.
+
+APIBRĖŽIMAS
+
+Kai keli vienodo arba skirtingo dydžio kūnai spaudžiami
+kitų kūnų taip, kad vienas kitą liečia, arba vienodu
+ar skirtingu greičiu juda taip, kad tam tikru santykiu
+perduoda savo judėjimą vienas kitam, tai mes
+sakome, kad tokie kūnai vienas su kitu susijungę ir visi
+kartu sudaro vieną kūną, arba individą, kuris skiriasi
+nuo kitų šiuo kūnų susijungimu.
+
+3) aksioma
+Kuo didesniais arba mažesniais paviršiais liečia
+viena kitą kurio nors individo, ar sudėtinio
+kūno, dalys, tuo sunkiau arba lengviau galima priversti
+juos pakeisti savo padėtį ir, vadinasi, tuo
+lengviau arba sunkiau priversti patį individą įgyti
+kitą pavidalą. Todėl tuos kūnus, kurių dalys
+viena kitą liečia didesniais paviršiais, aš vadinsiu
+kietais, o tuos, kurių dalys liečiasi mažais paviršiais,
+- minkštais ir, galiausiai, tuos, kurių dalys
+tarpusavyje judrios, - skystais.
+
+4) lema
+Jei nuo kūno, sudaryto iš kelių kūnų, arba nuo individo,
+kai kurie kūnai atsiskirs ir kartu jų vietų užims
+tiek pat kitų tos pačios prigimties kūnų, tai individas
+išsaugos savo ankstesnę prigimtį nė kiek nekeisdamas
+savo formos.
+Įrodymas. Juk kūnai (pagal 1 lemą) savo substancija
+nesiskiria. Tai, kas sudaro individo formą,
+yra (pagal ankstesnį apibr.) kūnų susijungimas,
+o šis susijungimas, net jei kūnai tolydžio kištų
+(pagal prielaidą), išlieka. Vadinasi, ir individas išsaugos
+savo ankstesnę prigimtį tiek substancijos,
+tiek moduso požiūriu. Tai ir reikėjo įrodyti.
+
+5) lema
+Jei individą sudarančios dalys padidės arba sumažės,
+tačiau tokia proporcija, kad tarp jų išliks ankstesnis
+judėjimo ir rimties santykis, tai ir individas išsaugos savo ankstesnę prigimtį nė kiek nekeisdamas savo
+formos.
+Įrodymas toks pats kaip ankstesnės lemos.
+
+6) lema
+Jei kai kurie individą sudarantys kūnai bus priversti
+pakeisti judėjimo kryptį, tačiau taip, kad savo judėjimą
+galės tęsti ir perduoti jį vienas kitam ankstesniu
+santykiu, tai ir individas išsaugos savo prigimtį nė
+kiek nekeisdamas savo formos.
+Įrodymas. Tai savaime aišku. Juk tariama, kad
+individas išsaugos visa, kas, kaip sakėme jį apibrėždami,
+sudaro jo formą.
+
+7) lema
+Be to, taip sudarytas individas, nesvarbu, ar jis visas
+judės, ar bus rimtyje, ar judės ta, ar kita kryptimi,
+išsaugos savo prigimtį, kol kiekviena jo dalis išsaugos
+savo judėjimą ir jį perduos kitoms dalims kaip ir anksčiau.
+Įrodymas. Tai aišku iš paties individo apibrėžimo,
+pateikto prieš 4 lemą.
+Pastaba. Taigi iš to matome, kaip sudėtinis individas
+gali patirti įvairias būsenas, vis dėlto išsaugodamas
+savo prigimtį. Be to, iki šiol mes ėmėme
+individą, sudarytą iš kūnų, kurie skiriasi tik
+judėjimu ir rimtimi, greičiu ir lėtumu, t.y. iš paprasčiausių
+kūnų sudalytą individą. O jei dabar imsime kitokį individą, sudarytą iš kelių skirtingos
+prigimties individų, tai aptiksime, kad jis gali
+patirti daug kitų būsenų, vis dėlto išsaugodamas
+savo prigimtį. Juk kadangi kiekviena jo dalis sudaryta
+iš kelių kūnų, tai kiekviena dalis galės (pagal
+ankstesnę lemą) nė kiek nekeisdama savo prigimties
+judėti tai lėčiau, tai greičiau ir, vadinasi,
+savo judėjimą greičiau ar lėčiau perduoti kitoms
+dalims. Be to, jei imsime trečią individų rūšį, sudarytą
+iš šios antrosios rūšies individų, tai aptiksime,
+kad ir jie gali patirti daug įvairių būsenų nė
+kiek nekeisdami savo formos.
+Ir jei taip eisime toliau iki begalybės, tai lengvai
+suprasime, kad visa gamta yra vienas individas,
+kurio dalys, t.y. visi kūnai, kinta begale būdų
+nė kiek nekintant individui kaip visumai. Tai aš
+turėčiau išdėstyti plačiau ir įrodyti, jei ketinčiau
+kūną tirti kaip dalyko žinovas. Bet jau sakiau,
+kad siekiu kitko ir kad tai pateikiau tik todėl, jog
+iš to lengvai galiu išvesti tai, ką pasiryžau įrodyti.
+
+POSTULATAI
+
+1. Žmogaus kūnas susideda iš daugelio (skirtingos
+prigimties) individualių dalių, kurių kiekviena
+nepaprastai sudėtinga.
+2. Žmogaus kūną sudarančios individualios dalys
+vienos skystos, kitos minkštos ir, galiausiai,
+trečios kietos.
+3. Žmogaus kūną sudarančias individualias dalis,
+taigi ir patį žmogaus kūną, daugeliu būdų veikia
+išoriniai kūnai.
+4. Kad save išsaugotų, žmogaus kūnui reikia
+daugelio kitų kūnų, kuriuose jis tolydžio tarsi atgimsta.
+5. Kai žmogaus kūno skysta dalis išorinio kūno
+determinuojama taip, kad dažnai suduoda į kitą,
+minkštą dalį, tai ji pakeičia pastarosios paviršių
+ir joje palieka tarsi kokius iš išorės veikiančio kūno
+pėdsakus.
+6. Žmogaus kūnas gali daugeliu būdų judinti
+išorinius kūnus ir įvairiais būdais juos paveikti.
+
+
+
+14. teorema:
+Žmogaus siela geba labai daug suvokti ir geba tuo
+labiau, kuo daugiau būdų jos kūnas gali būti paveiktas.
+Įrodymas. Juk žmogaus kūnas (pagal 3 ir
+6 post.) daugeliu būdų yra veikiamas išorinių kūnų
+ir geba daugeliu būdų paveikti išorinius kūnus.
+O visa, kas vyksta žmogaus kūne, žmogaus
+siela (pagal šios d. 12 teor.) turi suvokti; vadinasi,
+žmogaus siela geba labai daug suvokti ir geba tuo
+labiau, ir t.t. Tai ir reikėjo įrodyti.
+
+15. teorema:
+Idėja, sudaranti žmogaus sielos formalių būtį, ne
+paprasta, bet sudėta iš daugelio idėjų.
+Įrodymas. Žmogaus sielos formalią būtį sudaranti
+idėja yra kūno idėja (pagal šios d. 13 teor.),
+o kūnas (pagal 1 post.) susideda iš daugelio labai
+sudėtingų individų. Bet Dieve būtinai egzistuoja
+(pagal šios d. 8 teor. pr.) kiekvieno kūną sudarančio individo idėja. Vadinasi (pagal šios d. 7 teor.),
+žmogaus kūno idėja sudėta iš daugelio jo sudedamųjų
+dalių idėjų. Tai ir reikėjo įrodyti.
+
+16. teorema:
+Kiekvienos išorinių kūnų sukeltos žmogaus kūno būsenos
+idėja turi apimti žmogaus kūno prigimtį ir kartu
+išorinio kūno prigimtį.
+Įrodymas. Juk visos sukeltos kurio nors kūno
+būsenos kyla (pagal 1 aks. po 3 lemos pr.) iš poveikį
+patiriančio kūno prigimties ir kartu iš poveikį
+sukeliančio kūno prigimties. Todėl jų idėja (pagal
+I d. 4 aks.) būtinai apima abiejų kūnų prigimtį.
+Vadinasi, kiekvienos išorinių kūnų sukeltos žmogaus
+kūno būsenos idėja apima žmogaus kūno prigimtį
+ir išorinio kūno prigimtį. Tai ir reikėjo įrodyti.
+1 priedas. Iš to išplaukia, pirma, kad žmogaus
+siela daugelio kūnų prigimtį suvokia kartu su savo
+kūno prigimtimi.
+2 priedas. Išplaukia, antra, kad mūsų išorinių
+daiktų idėjos labiau parodo mūsų kūno būklę negu
+išorinių kūnų prigimtį, - tai daugeliu pavyzdžių
+aš paaiškinau pirmos dalies priedėlyje.
+
+17. teorema:
+Jei sukelta tokia žmogaus kūno būsena, kurioje glūdi
+kurio nors išorinio kūno prigimtis, tai žmogaus siela
+tą išorinį kūną laikys tikrai egzistuojančiu arba čia pat esančiu tol, kol kūnas nepatirs poveikio, šalinančio to
+kūno egzistavimą arba esamumą.
+Įrodymas. Teorema akivaizdi. Juk kol žmogaus
+kūnas patirs tokią būseną, tol žmogaus siela (pagal
+šios d. 12 teor.) šią kūno būseną suvoks, t.y.
+(pagal 16 teor.) turės tikrai egzistuojančio moduso
+idėją, apimančią išorinio kūno prigimtį, t.y. idėją,
+kuri išorinio kūno egzistavimą arba esamumą ne
+šalina, bet numato. Todėl siela (pagal 16 teor.
+1 pr.) išorinį kūną tol laikys tikrai egzistuojančiu
+arba čia pat esančiu, kol ir t.t. Tai ir reikėjo įrodyti.
+Priedas. Išorinius kūnus, kurie kartą paveikė
+žmogaus kūną, siela gali laikyti tarsi čia pat esančiais,
+nors jie jau neegzistuotų ir šiuo metu jų jau
+nebūtų.
+Įrodymas. Kai išoriniai kūnai žmogaus kūno
+skystąsias dalis determinuoja taip, kad jos dažnai
+suduoda į minkštesnes dalis, tai (pagal 5 post.)
+pakeičia jų paviršių. Dėl to (žr. 2 aks. po 3 lemos
+pr.) skystos dalys atsimuša nuo minkštų dalių kitaip
+negu anksčiau ir jeigu paskui savaimingai
+judėdamos suduoda į šiuos naujus paviršius, nuo
+jų atsimuša lygiai taip pat, kaip tada, kai jos išorinių
+kūnų buvo pastūmėtos į šiuos paviršius.
+Vadinasi, kai taip atsimušusių jų judėjimas tęsiasi,
+jos žmogaus kūną veikia tuo pačiu būdu. Siela
+(pagal šios d. 12 teor.) vėl mąstys apie šį poveikį,
+t.y. (pagal 17 teor.) vėl laikys išorinį kūną čia pat
+esančiu; ir taip bus kiekvieną kartą, kai žmogaus
+kūno skystos dalys savaimingai judėdamos suduos į šiuos paviršius. Todėl nors išoriniai kūnai, kartą
+paveikę žmogaus kūną, ir neegzistuotų, vis dėlto
+siela juos laikys čia pat esančiais kiekvieną kartą,
+kai pasikartos ši kūno veiksena. Tai ir reikėjo įrodyti.
+Pastaba. Taigi matome, kaip gali atsitikti, kad
+tą, ko nėra, mes, kaip dažnai būna, laikome čia
+pat esančiu. Galbūt tai atsitinka ir dėl kitų priežasčių,
+bet man pakaks, kad čia parodžiau vieną,
+kuria dalyką galiu taip paaiškinti, lyg būčiau parodęs
+tikrąją priežastį. Tačiau aš nemanau, kad
+esu labai nutolęs nuo tikrosios priežasties, nes visuose
+mano priimtuose postulatuose vargu ar glūdi
+kas nors, ko nepatvirtintų patyrimas, kuriuo
+abejoti mums nedera, kai įrodėme, kad žmogaus
+kūnas egzistuoja taip, kaip mes jį juntame (žr.
+šios d. 13 teor. pr.). Be to (iš šios teor. pr. ir 16 teor.
+2 pr.), mes aiškiai suprantame, koks yra skirtumas
+tarp, pavyzdžiui, Petro idėjos, sudarančios jo
+sielos esmę, ir Petro idėjos, kurią turi kitas žmogus,
+pavyzdžiui, Paulius. Pirmoji tiesiogiai išreiškia
+paties Petro kūno esmę, ir joje tol glūdi egzistavimas,
+kol Petras egzistuoja. O antroji labiau
+nurodo Pauliaus kūno būseną negu Petro prigimtį,
+ir todėl kol trunka toji Pauliaus kūno būsena,
+jo siela, nors Petras jau neegzistuotų, laikys jį
+esančiu.
+Tačiau laikydamiesi įprastinės žodžių vartosenos
+mes tokias žmogaus kūno būsenas, kurių idėjos
+išorinius kūnus mums pateikia kaip čia pat
+esančius, ateityje vadinsime daiktų vaizdais, nors
+jie ir neperteiktų daiktų pavidalo. Ir kai siela stebi daiktus šiuo būdu, mes sakysime, kad ji juos
+įsivaizduoja.
+Imdamasis atskleisti, kas yra suklydimas, aš
+norėčiau pažymėti, jog sielos vaizdiniams patiems
+savaime suklydimas nė kiek nebūdingas; kitaip
+tariant, siela, kai ji įsivaizduoja, neklysta, o klysta
+tik tiek, kiek ji laikoma neturinčia idėjos, šalinančios
+tų daiktų, kuriuos ji įsivaizduoja čia pat
+esančius, egzistavimą. Juk jei siela, neegzistuojančius
+daiktus įsivaizduodama čia pat esančius,
+kartu žinotų, kad tie daiktai tikrai neegzistuoja,
+tai tokią vaizduotės galią ji iš tiesų laikytų savosios
+prigimties vertingumu, o ne yda, ypač jei šis
+gebėjimas įsivaizduoti priklausytų vien tik nuo jos
+prigimties, t.y. (pagal I d. 7 apibr.) jei šis sielos
+gebėjimas įsivaizduoti būtų laisvas.
+
+18. teorema:
+Jei žmogaus kūnas kartą buvo veikiamas dviejų arba
+daugiau kūnų vienu metu, tai siela, paskui įsivaizduodama
+vieną iš jų, tuojau atsimins ir kitus.
+Įrodymas. Siela (pagal 17 teor. pr.) kurį nors
+kūną įsivaizduoja dėl tos priežasties, kad išorinio
+kūno palikti pėdsakai paveikia žmogaus kūną ir
+sukelia tokią pačią būseną tuo pačiu būdu kaip ir
+tada, kai tam tikros jo dalys buvo veikiamos paties
+išorinio kūno. Bet (pagal prielaidą) kūno būsena
+tada buvo tokia, kad siela įsivaizdavo iš karto
+du kūnus. Vadinasi, dabar siela taip pat įsivaizduos
+iš karto du kūnus, ir jei įsivaizduos vieną iš
+jų, tuojau atsimins ir kitą. Tai ir reikėjo įrodyti.
+Pastaba. Iš to aiškiai suprantame, kas yra atmintis.
+Juk ji yra ne kas kita, kaip tam tikras
+idėjų, kuriose glūdi už žmogaus kūno esančių daiktų
+prigimtis, susijungimas sieloje pagal žmogaus
+kūno būsenų tvarką ir susijungimą. Aš sakau, pirma,
+jog atmintis yra susijungimas tik tokių idėjų,
+kuriose glūdi už žmogaus kūno esančių daiktų prigimtis,
+o ne idėjų, išreiškiančių šių daiktų prigimtį.
+Juk iš tikrųjų šios idėjos (pagal šios d. 16 teor.)
+yra žmogaus kūno būsenų idėjos, jos apima tiek
+žmogaus kūno, tiek išorinių kūnų prigimtis. Sakau,
+antra, jog šis idėjų susijungimas įvyksta pagal
+žmogaus kūno būsenų tvarką ir susijungimą,
+kad jį atskirčiau nuo idėjų susijungimo, įvykstančio
+pagal intelekto tvarką, kuria siela suvokia daiktus
+per jų pirmąsias priežastis ir kuri ta pati visiems
+žmonėms.
+Iš to paskui aiškiai suprantame, kodėl siela nuo
+minties apie vieną daiktą tuojau pereina prie minties
+apie kitą daiktą, nė kiek į pirmąjį nepanašų.
+Pavyzdžiui, nuo minties apie žodį pomum (obuolys)
+romėnas tuojau pereidavo prie minties apie
+vaisių, nė kiek nepanašų į tą artikuliuotą garsą ir
+neturintį su juo nieko bendro, išskyrus tai, kad to
+žmogaus kūną dažnai paveikdavo jie abu, t.y. tas
+žmogus, matydamas vaisių, dažnai girdėjo žodį pomum.
+Taip kiekvienas pereina nuo vienos minties
+prie kitos pagal tai, kaip įprotis jo kūne sutvarkė
+daiktų vaizdus. Juk, pavyzdžiui, kareivis, matydamas
+smėlyje arklio pėdsakus, tuojau nuo minties
+apie arklį pereis prie minties apie raitelį, nuo
+jos - prie minties apie karą ir t.t. O kaimietis nuo minties apie arklį pereis prie minties apie plūgą,
+lauką ir t.t.; ir taip kiekvienas nuo vienos minties
+pereina prie tos ar kitos, žiūrint kaip yra įpratęs
+tuo ar kitu būdu jungti daiktų vaizdus.
+
+19. teorema:
+Žmogaus siela pažįsta patį žmogaus kūną ir apie jo
+egzistavimą žino tik iš sukeltų kūno būseniĮ idėjų.
+Įrodymas. Juk žmogaus siela pati yra idėja, kitaip
+tariant - žmogaus kūno pažinimas (pagal šios
+d. 13 teor.), esantis (pagal šios d. 9 teor.) Dieve,
+kiek jis laikomas sudarančiu kitą atskiro daikto
+idėją. Arba: kadangi (pagal 4 post.) žmogaus kūnui
+reikia daugelio kitų kūnų, per kuriuos jis tolydžio
+tarsi atgimsta, o idėjų tvarka ir sąryšis (pagal
+šios d. 7 teor.) tokie patys kaip priežasčių
+tvarka ir sąryšis, tai, vadinasi, ši idėja bus Dieve,
+kiek jis laikomas sudarančiu daugelio atskirų daiktų
+idėjas. Taigi Dievas turi žmogaus kūno idėją,
+kitaip tariant, pažįsta žmogaus kūną, kiek jis sudaro
+daugelį kitų idėjų, o ne kiek jis sudaro žmogaus
+sielos prigimtį, t.y. (pagal šios d. 11 teor. pr.)
+žmogaus siela žmogaus kūno nepažįsta. Tačiau kūno
+būsenų idėjos yra Dieve, kiek jis sudaro žmogaus
+sielos prigimtį, kitaip tariant, žmogaus siela
+kūno būsenas suvokia (pagal šios d. 12 teor.) ir,
+vadinasi (pagal šios d. 16 teor.), suvokia ir patį
+žmogaus kūną, be to (pagal šios d. 17 teor.), kaip
+tikrai egzistuojantį. Taigi tik tiek žmogaus siela
+suvokia patį žmogaus kūną. Tai ir reikėjo įrodyti.
+
+20. teorema:
+Dieve taip pat egzistuoja žmogaus sielos idėja, arba
+pažinimas, kylanti Dieve tuo pačiu būdu ir Dievui priklausanti
+lygiai taip pat, kaip žmogaus kūno idėja, arba
+pažinimas.
+Įrodymas. Mąstymas yra Dievo atributas (pagal
+šios d. 1 teor.), o todėl (pagal šios d. 3 teor.)
+Dieve būtinai turi egzistuoti tiek paties mąstymo,
+tiek visų jo modusų, taigi (pagal šios d. 11 teor.)
+ir žmogaus sielos idėja. Iš to išplaukia, kad ši sielos
+idėja, arba pažinimas, Dieve egzistuoja ne kiek
+jis yra begalinis, bet kiek jis sudaro kitą atskiro
+daikto idėją (pagal šios d. 9 teor.). Bet idėjų tvarka
+ir sąryšis tokie patys kaip priežasčių tvarka ir
+sąryšis (pagal šios d. 7 teor.). Vadinasi, ši sielos
+idėja, arba pažinimas, kyla Dieve ir Dievui priklauso
+tuo pačiu būdu kaip kūno idėja, arba pažinimas.
+Tai ir reikėjo įrodyti.
+
+21. teorema:
+Ši sielos idėja lygiai taip pat suvienyta su siela, kaip
+pati siela suvienyta su kūnu.
+Įrodymas. Sielos suvienijimą su kūnu parodėme
+remdamiesi tuo, kad būtent kūnas yra sielos
+objektas (žr. šios d. 12 ir 13 teor.). O todėl tuo
+pačiu pagrindu sielos idėja turi būti suvienyta su
+savo objektu, t.y. su pačia siela, lygiai taip pat,
+kaip pati siela suvienyta su kūnu. Tai ir reikėjo
+įrodyti.
+Pastaba. Ši teorema daug aiškiau suprantama
+iš to, kas pasakyta šios dalies 7 teoremos pastaboje; juk ten mes parodėme, kad kūno idėja ir kūnas,
+t.y. (pagal šios d. 13 teor.) siela ir kūnas, yra
+vienas ir tas pats individas, suvokiamas tai kaip
+mąstymo, tai kaip tįsumo atributas. Todėl sielos
+idėja ir pati siela yra vienas ir tas pats daiktas,
+suvokiamas kaip vienas ir tas pats atributas, būtent
+mąstymo atributas. Aš sakau: sielos idėja ir
+pati siela egzistuoja Dieve ir taip pat būtinai kyla
+iš tos pačios mąstymo galios. Juk sielos idėja, t.y.
+idėjos idėja, iš tikrųjų yra ne kas kita, kaip idėjos
+forma, kiek ji laikoma mąstymo modusu neatsižvelgiant
+į objektą. Mat jei kas nors ką nors žino,
+tai kartu žino, kad tai žino, ir kartu žino, jog jis
+žino, kad jis tai žino, ir t.t. iki begalybės. Bet apie
+tai paskui.
+
+22. teorema:
+Žmogaus siela suvokia ne tik kūno būsenas, bet taip
+pat šių būsenų idėjas.
+Įrodymas. Būsenų idėjų idėjos Dieve kyla tuo
+pačiu būdu ir Dievui priklauso lygiai taip pat, kaip
+pačios būsenų idėjos; tai įrodoma tuo pačiu būdu
+kaip 20 teorema. Bet kūno būsenų idėjos yra žmogaus
+sieloje (pagal šios d. 12 teor.), t.y. (pagal šios
+d. 11 teor. pr.) Dieve, kiek jis sudaro žmogaus
+sielos esmę. Vadinasi, šių idėjų idėjos bus Dieve,
+kiek jam būdingas žmogaus sielos pažinimas, arba
+idėja, t.y. (pagal 21 teor.) jos bus pačioje žmogaus
+sieloje, kuri todėl suvokia ne tik kūno būsenas,
+bet ir šių būsenų idėjas. Tai ir reikėjo įrodyti.
+
+23. teorema:
+Siela save pažįsta tik tiek, kiek ji suvokia kūno būsenų
+idėjas.
+Įrodymas. Sielos idėja, arba pažinimas (pagal
+šios d. 20 teor.), Dieve kyla tuo pačiu būdu ir jam
+priklauso lygiai taip pat, kaip kūno idėja, arba
+pažinimas. O kadangi (pagal šios d. 19 teor). žmogaus
+siela žmogaus kūno paties savaime nepažįsta,
+t.y. (pagal šios d. 11 teor. pr.) kadangi žmogaus
+kūną Dievas pažįsta ne kiek jis sudaro žmogaus
+sielos prigimtį, tai ir sielą Dievas pažįsta ne kiek
+jis sudaro žmogaus sielos prigimtį, ir todėl (pagal
+tą patį 11 teor. pr.) žmogaus siela tiek pati savęs
+nepažįsta. Be to, kūno patiriamų būsenų idėjos
+apima paties žmogaus kūno prigimtį (pagal šios
+d. 16 teor.), t.y. (pagal šios d. 13 teor.) jos atitinka
+sielos prigimtį. Todėl šių idėjų pažinime būtinai
+glūdės sielos pažinimas. Bet žmogaus siela (pagal
+22 teor.) pažįsta šias idėjas. Vadinasi, žmogaus
+siela tik tiek pati save pažįsta. Tai ir reikėjo
+įrodyti.
+
+24. teorema:
+Žmogaus siela žmogaus kūnų sudarančių dalių adekvačiai
+nepažįsta.
+Įrodymas. Žmogaus kūną sudarančios dalys priklauso
+paties kūno esmei tik tiek, kiek jos viena
+kitai tam tikru santykiu perduoda savo judėjimus
+(žr. apibr. po 3 lemos pr.), o ne kiek jos gali būti
+laikomos individais neatsižvelgiant į žmogaus kūną. Juk žmogaus kūno dalys (pagal 1 post.) yra
+nepaprastai sudėtingi individai, kurių dalys (pagal
+4 lemą) gali atsiskirti nuo žmogaus kūno, visiškai
+išsaugant jo prigimtį ir formą, ir savo judėjimus
+perteikti (žr. 1 aks. po 3 lemos) kitiems
+kūnams kitu santykiu. Todėl (pagal šios d. 3 teor.)
+kiekvienos dalies idėja, arba pažinimas, bus Dieve,
+ir būtent (pagal šios d. 9 teor.) kiek jis laikomas
+sudarančiu kitą atskiro daikto idėją, o tas
+atskiras daiktas gamtos tvarkoje yra pirmesnis
+už pačią tą dalį (pagal šios d. 7 teor.). Be to, tą
+patį reikia pasakyti ir apie žmogaus kūną sudarančio
+paties individo kiekvieną atskirą dalį, todėl
+kiekvieną žmogaus kūną sudarančią dalį Dievas
+pažįsta, kiek jis sudaro daugelį daiktų idėjų,
+o ne kiek jis tik turi žmogaus kūno idėją, t.y. (pagal
+šios d. 13 teor.) idėją, sudarančią žmogaus sielos
+prigimtį. O todėl (pagal šios d. 11 teor. pr.)
+žmogaus siela žmogaus kūną sudarančių dalių
+adekvačiai nepažįsta. Tai ir reikėjo įrodyti.
+
+25. teorema:
+Žmogaus kūno bet kurios būsenos idėjoje neglūdi
+adekvatus išorinio kūno pažinimas.
+Įrodymas. Parodėme (žr. šios d. 16 teor.), kad
+žmogaus kūno būsenos idėja išorinio kūno prigimtį
+apima tiek, kiek išorinis kūnas tam tikru būdu
+determinuoja patį žmogaus kūną. O kiek išorinis
+kūnas yra individas neatsižvelgiant į žmogaus kūną,
+jo idėja, arba pažinimas, būdinga Dievui (pagal
+šios d. 9 teor.), kiek jis laikomas sudarančiu kito daikto idėją, kuri (pagal šios d. 7 teor.) savo
+prigimtimi pirmesnė už tą išorinį kūną. Todėl
+adekvatus išorinio kūno pažinimas Dievui nebūdingas,
+kiek jis turi žmogaus kūno būsenos idėją,
+kitaip tariant, žmogaus kūno būsenos idėjoje neglūdi
+adekvatus išorinio kūno pažinimas. Tai ir
+reikėjo įrodyti.
+
+26. teorema:
+Žmogaus siela kiekvieną išorinį kūną suvokia kaip
+tikrai egzistuojantį tik iš savo kūno būsenų idėjų.
+Įrodymas. Jei žmogaus kūno niekaip neveikia
+koks nors išorinis kūnas, tai (pagal šios d. 7 teor.)
+ir žmogaus kūno idėja, t.y. (pagal šios d. 13 teor.)
+žmogaus siela, to kūno egzistavimo idėjos niekaip
+neveikiama, kitaip tariant, ji niekaip nesuvokia
+tą išorinį kūną egzistuojant. O kiek žmogaus kūnas
+kokiu nors būdu veikiamas kurio nors išorinio
+kūno, tiek (pagal šios d. 16 teor. ir jos pr.) ir
+siela išorinį kūną suvokia. Tai ir reikėjo įrodyti.
+Priedas. Kiek žmogaus siela įsivaizduoja išorinį
+kūną, tiek ji jo adekvačiai nepažįsta.
+Įrodymas. Kai žmogaus siela stebi išorinius kūnus
+remdamasi savo kūno būsenų idėjomis, tai
+sakome, kad ji įsivaizduoja (žr. šios d. 17 teor.
+past.); kitu būdu įsivaizduoti išorinius kūnus tikrai
+egzistuojant siela (pagal ankstesnę teor.) negali.
+Todėl (pagal 25 teor.) kiek siela įsivaizduoja
+išorinius kūnus, tiek jų adekvačiai nepažįsta. Tai
+ir reikėjo įrodyti.
+
+27. teorema:
+Žmogaus kūno bet kurios būsenos idėjoje neglūdi
+adekvatus paties žmogaus kūno pažinimas.
+Įrodymas. Kiekviena žmogaus kūno bet kurios
+būsenos idėja žmogaus kūno prigimtį apima tiek,
+kiek pats žmogaus kūnas laikomas veikiamu kokiu
+nors apibrėžtu būdu (žr. šios d. 16 teor.). O
+kiek žmogaus kūnas yra individas, kuris gali būti
+veikiamas daugeliu kitų būdų, jo idėjoje ir t.t. (žr.
+šios d. 25 teor. įrodymą).
+
+28. teorema:
+Žmogaus kūno būsenų idėjos, kiek jos priklauso tik
+žmogaus sielai, nėra aiškios ir tikslios, bet ura neaiškios.
+Įrodymas. Juk žmogaus kūno būsenų idėjos apima
+tiek išorinių kūnų, tiek paties žmogaus kūno
+prigimtį (pagal šios d. 16 teor.); jos turi apimti ne
+tik žmogaus kūno, bet ir jo dalių prigimtį, nes
+būsenos yra (pagal 3 post.) būdai, kuriais išoriškai
+veikiamos žmogaus kūno dalys ir, vadinasi,
+visas kūnas. Bet (pagal šios d. 24 ir 25 teor.) išorinius
+kūnus, kaip ir žmogaus kūną sudarančias
+dalis, adekvačiai pažįsta Dievas, kiek jis laikomas
+sudarančiu ne žmogaus sielą, bet kitas idėjas. Vadinasi,
+šios būsenų idėjos, kiek jos priklauso tik
+žmogaus sielai, yra lyg išvados be prielaidų, t.y.
+(tai savaime suprantama) neaiškios idėjos. Tai ir
+reikėjo įrodyti.
+Pastaba. Tuo pačiu būdu galima įrodyti, kad
+žmogaus sielos prigimtį sudaranti idėja, imama pati savaime, nėra aiški ir tiksli; tokios pačios yra
+žmogaus sielos idėja ir žmogaus kūno būsenų idėjų
+idėjos, kiek jos priklauso vien tik sielai. Kiekvienas
+gali tai lengvai pastebėti.
+
+29. teorema:
+Bet kurios žmogaus kūno būsenos idėjos idėjoje neglūdi
+adekvatus žmogaus sielos pažinimas.
+Įrodymas. Juk žmogaus kūno būsenos idėjoje
+(pagal šios d. 27 teor.) neglūdi adekvatus paties
+kūno pažinimas, kitaip tariant, idėja adekvačiai
+neišreiškia jo prigimties, t.y. (pagal šios d. 13 teor.)
+ji adekvačiai nesiderina su sielos prigimtimi. Todėl
+(pagal I d. 6 aks.) šios idėjos idėja adekvačiai
+neišreiškia žmogaus sielos prigimties, kitaip tariant,
+joje neglūdi adekvatus šios prigimties pažinimas.
+Tai ir reikėjo įrodyti.
+Priedas. Iš to išplaukia, kad žmogaus siela visais
+atvejais, kai ji daiktus suvokia įprastine gamtos
+tvarka, pažįsta ne adekvačiai, bet tik neaiškiai
+ir iškreiptai. Juk siela pati save pažįsta tik
+tiek, kiek ji suvokia kūno būsenų idėjas (pagal
+šios d. 23 teor.). O savo kūną siela (pagal šios d.
+19 teor.) pažįsta tik iš pačių jo būsenų idėjų, kuriomis
+remdamasi (pagal šios d. 26 teor.) ji suvokia
+taip pat ir išorinius kūnus. Todėl kiek ji jas
+turi, ji ne adekvačiai pažįsta pačią save (pagal
+29 teor.), savo kūną (pagal šios d. 27 teor.) ir išorinius
+kūnus (pagal šios d. 25 teor.), o pažįsta tik
+(pagal 28 teor. ir jos past.) iškreiptai ir neaiškiai.
+Tai ir reikėjo įrodyti.
+Pastaba. Aš pabrėžiu, kad siela ne adekvačiai,
+bet tik neaiškiai pažįsta pačią save, savo kūną ir
+išorinius daiktus kiekvieną kartą, kai ji daiktus
+suvokia įprastine gamtos tvarka, t.y. kiekvieną
+kartą, kai ji išoriškai, būtent atsitiktinio susidūrimo
+su daiktais, determinuojama tą ar kitą apmąstyti,
+o ne tada, kai ji vidujai - būtent dėl to,
+kad iš karto stebi daug daiktų - determinuojama
+suprasti jų suderinamumą, skirtybes ir priešybes.
+Juk kiekvieną kartą, kai siela tuo ar kitu būdu
+vidujai determinuojama, ji daiktus įžvelgia aiškiai
+ir tiksliai, - tai aš parodysiu toliau.
+
+30. teorema:
+Savo kūno trukmę mes galime pažinti tik labai neadekvačiai.
+Įrodymas. Mūsų kūno trukmė nepriklauso nuo
+jo esmės (pagal šios d. 1 aks.), ji taip pat nepriklauso
+nuo absoliučios Dievo prigimties (pagal I d.
+21 teor.). Bet (pagal I d. 28 teor.) mūsų kūnas
+determinuojamas egzistuoti ir veikti tokių priežasčių,
+kurios taip pat determinuotos tam tikru ir
+apibrėžtu būdu egzistuoti ir veikti kitų priežasčių,
+o šios determinuotos vėl kitų, ir taip iki begalybės.
+Taigi mūsų kūno trukmė priklauso nuo gamtos
+visuotinės tvarkos ir daiktų sandaros. O kokia
+ši daiktų sandara - tą adekvačiai žino Dievas,
+kiek jis turi jų visų idėjas, o ne kiek jis turi tik
+žmogaus kūno idėją (pagal šios d. 9 teor. pr.). Todėl
+kiek Dievas laikomas sudarančiu tik žmogaus
+sielos prigimtį, jis mūsų kūno trukmę pažįsta labai
+neadekvačiai, t.y. (pagal šios d. 11 teor. pr.) šis pažinimas musų sieloje labai neadekvatus. Tai
+ir reikėjo įrodyti.
+
+31. teorema:
+Už mūsų esančių atskirų daiktų trukmę mes galime
+pažinti tik labai neadekvačiai.
+Įrodymas. Juk kiekvieną atskirą daiktą, kaip
+ir žmogaus kūną, tam tikru ir apibrėžtu būdu egzistuoti
+ir veikti turi determinuoti kita priežastis,
+o šią - vėl kita, ir taip iki begalybės (pagal I d.
+28 teor.). O kadangi, remdamiesi šia visuotine atskirų
+daiktų savybe, ankstesnėje teoremoje mes
+įrodėme, kad savo kūno trukmę galime pažinti tik
+labai neadekvačiai, tai, vadinasi, tokią pačią išvadą
+reikės daryti ir apie atskirų daiktų trukmę,
+būtent kad ją mes galime pažinti tik labai neadekvačiai.
+Tai ir reikėjo įrodyti.
+Priedas. Iš to išplaukia, kad visi atskiri daiktai
+yra atsitiktiniai ir nykstantys. Juk jų trukmės mes
+negalime adekvačiai pažinti (pagal 30 teor.), o kaip
+tik tai ir reikia laikyti daiktų atsitiktinumu ir
+sunaikinamumu (žr. I d. 33 teor. 1 past.), nes,
+išskyrus šitai (pagal I d. 29 teor.), nėra nieko atsitiktinio.
+
+32. teorema:
+Visos idėjos, kiek jos priklauso Dievui, teisingos.
+Įrodymas. Juk visos Dieve esančios idėjos visiškai
+atitinka savo objektus (pagal šios d. 7 teor. pr.) ir, vadinasi, jos visos (pagal I d. 6 aks.) teisingos.
+
+33. teorema:
+Idėjose nėra nieko teigiamo, dėl ko jos vadinamos
+klaidingomis.
+Įrodymas. Kas tai neigia, tegul įsivaizduoja, jei
+tai įmanoma, teigiamą mąstymo modusą, sudarantį
+suklydimo, arba klaidingumo, formą. Sis
+mąstymo modusas Dieve negalimas (pagal 32 teor.),
+taip pat negalimas ir neįsivaizduojamas už Dievo
+(pagal I d. 15 teor.). Vadinasi, idėjose negali būti
+nieko teigiamo, dėl ko jos vadinamos klaidingomis.
+Tai ir reikėjo įrodyti.
+
+34. teorema:
+Kiekviena mūsų turima absoliuti, t.y. adekvati ir
+tobida, idėja yra teisinga.
+Įrodymas. Kai sakome, kad turime adekvačią
+ir tobulą idėją, tai (pagal šios d. 11 teor. pr.) sakome
+ne ką kita, o tai, kad adekvačią ir tobulą
+idėją turi Dievas, kiek jis sudaro mūsų sielos esmę;
+vadinasi (pagal šios d. 32 teor.), sakome ne ką
+kita, o tai, kad tokia idėja teisinga.
+
+35. teorema:
+Klaidingumų sudaro žinojimo stoka, glūdinti neadekvačiose,
+t.y. iškreiptose ir neaiškiose, idėjose.
+Įrodymas. Idėjose nėra nieko teigiamo, kas sudarytų
+klaidingumo formą (pagal šios d. 33 teor.).
+Tačiau klaidingumo negali sudaryti absoliuti žinojimo
+stoka (juk ne apie kūnus, bet apie sielas
+sakoma, kad jos apsirinka ir klysta), taip pat negali
+sudaryti absoliutus nežinojimas, nes nežinoti
+ir suklysti - skirtingi dalykai. Todėl klaidingumą
+sudaro žinojimo stoka, glūdinti neadekvačiame
+daiktų pažinime, t.y. neadekvačiose ir neaiškiose
+idėjose. Tai ir reikėjo įrodyti.
+Pastaba. Šios dalies 17 teoremos pastaboje aš
+paaiškinau, kaip klaidą sudaro žinojimo stoka, o
+kad būtų dar aiškiau, pateiksiu pavyzdį. Rodos,
+žmonės klysta manydami esą laisvi. Ši jų nuomonė
+remiasi tik tuo, kad jie įsisąmoninę savo veiksmus
+ir nežino juos determinuojančių priežasčių.
+Taigi jų laisvės idėja tokia, kad jie nežino jokios
+savo veiksmų priežasties. Mat kai jie sako, kad
+žmonių veiksmai priklauso nuo valios, tai yra žodžiai,
+kurių jie nesieja su jokia idėja. Iš tiesų nė
+vienas nežino, kas yra valia ir kaip ji judina kūną;
+o tie, kurie giriasi tokiu žinojimu ir išgalvoja
+sielos būstą ir buveinę, paprastai sukelia arba juoką,
+arba pasibjaurėjimą. Panašiai žiūrėdami į saulę
+įsivaizduojame ją nuo mūsų nutolus maždaug
+200 žingsnių. Klaidą čia sudaro ne vien toks įsivaizdavimas,
+bet ir tai, kad taip įsivaizduodami
+mes nežinome tikrojo saulės nuotolio ir šio vaizdavimosi
+priežasties. Juk net jei paskui sužinome,
+kad saulė nuo mūsų nutolusi daugiau negu
+600 žemės skersmenų8, vis dėlto ją tebeįsivaizduojame
+esant arti. Juk saulę arti esant įsivaizduojame
+ne todėl, kad nežinome jos tikrojo nuotolio,
+bet dėl to, kad mūsų kūno būsena apima saulės
+esmę tik tiek, kiek pats kūnas yra jos veikiamas.
+
+36. teorema:
+Neadekvačios ir neaiškios idėjos kyla taip pat būtinai
+kaip ir adekvačios, t.y. aiškios ir tikslios, idėjos.
+Įrodymas. Visos idėjos yra Dieve (pagal I d.
+15 teor.) ir, kiek jos priklauso Dievui, yra teisingos
+(pagal šios d. 32 teor.) ir (pagal šios d. 7 teor.
+pr.) adekvačios. Tad jos neadekvačios ir neaiškios
+tik tiek, kiek priklauso kieno nors atskirai sielai
+(apie tai ir. šios d. 24 ir 28 teor.). O todėl jos
+visos - tiek adekvačios, tiek neadekvačios - kyla
+taip pat būtinai. Tai ir reikėjo įrodyti.
+
+37. teorema:
+Tai, kas bendra visiems daiktams (apie tai ir. 2 lemą)
+ir vienodai yra tiek dalyje, tiek visumoje, nesudaro
+jokio atskiro daikto esmės.
+Įrodymas. Kas tai neigia, tegul įsivaizduoja, jei
+tai įmanoma, kad tai, kas bendra visiems daiktams,
+sudaro kurio nors atskiro daikto esmę, tarkime,
+B esmę. Vadinasi (pagal šios d. 2 apibr.),
+bendrybė negalės be B nei egzistuoti, nei būti suvokiama.
+Bet tai priešinga prielaidai. Vadinasi,
+bendrybė nepriklauso B esmei ir kurio nors kito
+atskiro daikto esmės nesudaro. Tai ir reikėjo įrodyti.
+
+38. teorema:
+Tai, kas bendra visiems daiktams ir vienodai yra
+tiek dalyje, tiek visumoje, galima suvokti tik adekvačiai. Įrodymas. Tegul A yra kas nors bendra visiems
+daiktams ir vienodai yra tiek kurio nors kūno dalyje,
+tiek visumoje. Aš teigiu, kad A gali būti suprantama
+tik adekvačiai. Juk šito idėja (pagal šios
+d. 7 teor. pr.) Dieve būtinai bus adekvati ir kiek
+jis turi žmogaus kūno idėją, ir kiek turi idėją kūno
+būsenų, kuriose (pagal šios d. 16, 25 ir 27 teor.)
+glūdi tiek žmogaus kūno, tiek iš dalies ir išorinių
+kūnų prigimtis. Tai reiškia, kad (pagal šios d. 12
+ir 13 teor.) šios idėjos būtinai bus adekvačios Dieve,
+kiek jis sudaro žmogaus sielą, kitaip tariant,
+kiek jis turi idėjas, esančias žmogaus sieloje. Taigi
+siela (pagal šios d. 11 teor. pr.) būtinai suvokia
+A adekvačiai - ir kiek ji suvokia save, ir kiek
+suvokia bet kurį išorinį kūną; o kitu būdu A negali
+būti suvokiama. Tai ir reikėjo įrodyti.
+Priedas. Iš to išplaukia, kad egzistuoja kai kurios
+idėjos, arba sąvokos, bendros visiems žmonėms,
+nes (pagal 2 lemą) visi kūnai kai kuo sutampa,
+o tai (pagal ankstesnę teor.) visi turi
+suvokti adekvačiai, t.y. aiškiai ir tiksliai.
+
+39. teorema:
+To, kas bendra bei būdinga žmogaus kūnui ir kai
+kuriems išoriniams kūnams, paprastai veikiantiems
+žmogaus kūną, ir kas vienodai yra tiek kiekvieno iš šių
+kūnų dalyje, tiek visumoje, idėja sieloje bus taip pat
+adekvati.
+Įrodymas. Tegul A yra tai, kas bendra bei būdinga
+žmogaus kūnui ir kai kuriems išoriniams
+kūnams, kas vienodai yra žmogaus kūne ir tuose išoriniuose kūnuose ir kas, galiausiai, vienodai yra
+tiek kiekvieno iš šių kūnų dalyje, tiek visumoje.
+Dieve bus adekvati paties A idėja (pagal šios d.
+7 teor. pr.) - ir kiek jis turi žmogaus kūno idėją,
+ir kiek jis turi tų išorinių kūnų idėjas. Dabar tarkime,
+kad žmogaus kūnas veikiamas išorinio kūno
+per tai, kas jiems bendra, t.y. per A. Šios būsenos
+idėjoje glūdės savybė A (pagal šios d. 16 teor.),
+ir todėl (pagal tą patį 7 teor. pr.) šios būsenos
+idėja, kiek joje glūdi savybė A, bus adekvati Dieve,
+kiek jis sudaro žmogaus kūno idėją, t.y. (pagal
+šios d. 13 teor.) kiek jis sudaro žmogaus sielos
+prigimtį. O todėl (pagal šios d. 11 teor. pr.) ši
+idėja adekvati taip pat ir žmogaus sieloje. Tai ir
+reikėjo įrodyti.
+Priedas. Iš to išplaukia, kad siela adekvačiai
+suvokti geba tuo labiau, kuo daugiau jos kūnas
+turi bendro su kitais kūnais.
+
+40. teorema:
+Visos idėjos, kylančios sieloje iš joje esančių adekvačių
+idėjų, taip pat adekvačios.
+įrodymas. Tai aišku. Juk kai sakome, kad žmogaus
+sieloje idėja kyla iš joje esančių adekvačių
+idėjų, tai mes nesakome nieko kito (pagal šios d.
+11 teor. pr.), o tik tai, kad pačiame dieviškajame
+intelekte egzistuoja idėja, kurios priežastis yra Dievas - ne kiek jis begalinis ir ne kiek jis patiria
+daugelio atskirų daiktų idėjų poveikius, bet kiek
+jis sudaro tik žmogaus sielos esmę.
+1) pastaba. Tuo aš paaiškinau sąvokų, vadinamų
+bendrosiomis ir sudarančių mūsų samprotavimų
+pagrindą, priežastį. Bet yra dar kitos aksiomų
+arba sąvokų priežastys, kurias vertėtų paaiškinti
+mūsų metodu: iš jų paaiškėtų, kurios sąvokos naudingesnės
+už kitas ir kurios vargu ar gali būti
+vartojamos; be to, kurios sąvokos bendros visiems
+ir kurios aiškios bei tikslios tik tiems, kurie neturi
+išankstinių nuostatų, ir, galiausiai, kurios blogai
+pagrįstos. Be to, paaiškėtų, iš kur kyla tos
+sąvokos, kurios vadinamos antros eilės sąvokomis9,
+ir, vadinasi, jų pagrindą sudarančios aksiomos, ir
+dar kai kas, ką retkarčiais čia apmąstydavau. Bet
+kadangi tam paskyriau kitą traktatą10 ir kad nereikalingu
+daugžodžiavimu nesukelčiau bodėjimosi,
+aš nusprendžiau čia to neliesti.
+Tačiau kad nepraleisčiau ko nors, ką būtina
+žinoti, trumpai nurodysiu priežastis, iš kurių kyla
+vadinamieji transcendentaliniai terminai - esinys,
+daiktas, kas nors. Šie terminai atsiranda dėl to,
+kad žmogaus kūnas, kadangi jis ribotas, pajėgia
+iš karto aiškiai susidaryti tik tam tikrą vaizdų
+skaičių (šios d. 17 teor. past. paaiškinau, kas yra
+vaizdas). Jei šis skaičius viršijamas, tai vaizdai
+pradeda susilieti, ir kai šis vaizdų, kuriuos kūnas
+pajėgia iš karto sudaryti, skaičius žymiai viršijamas,
+tai jie visi visiškai susilieja. Taip įvykus,
+žmogaus siela, kaip aišku iš šios dalies 17 teoremos
+priedo ir iš 18 teoremos, galės iš karto tiksliai
+įsivaizduoti tiek kūnų, kiek jos kūne iš karto
+gali susidaryti vaizdų. O kai vaizdai kūne visiškai
+susilieja, tai ir siela visus kūnus įsivaizduos neaiškiai,
+be jokios skirtybės ir juos supras tarsi vieno atributo požiūriu, būtent esinio, daikto atributo
+ir t.t. Tai galima išvesti ir iš to, kad vaizdai ne
+visada vienodai ryškūs, taip pat iš kitų analogiškų
+šioms priežasčių, kurias čia aiškinti nėra reikalo,
+nes mūsų siekiamam tikslui pakanka išnagrinėti
+tik vieną. Juk jos visos lemia tai, kad šie
+terminai žymi pačias neaiškiausias idėjas.
+Dėl panašių priežasčių paskui kilo tos sąvokos,
+kurios vadinamos bendrosiomis, kaip antai: žmogus,
+arklys, šuo ir t.t. Jos atsirado būtent dėl to,
+jog žmogaus kūne susidaro iš karto tiek vaizdų,
+pavyzdžiui, žmonių, kad nors jie vaizduotės galios
+visiškai ir nepranoksta, bet vis dėlto pranoksta
+tiek, jog siela negali įsivaizduoti atskirų žmonių
+nežymių skirtybių (būtent kiekvieno spalvos, dydžio
+ir t.t.) ir apibrėžto jų skaičiaus, o tiksliai įsivaizduoja
+tik tai, kuo jie visi, kiek veikia kūną,
+yra vienodi, nes to kūnas labiausiai yra veikiamas,
+būtent kiekvieno atskiro žmogaus. Šitai siela
+išreiškia žodžiu „žmogus“ ir priskiria atskirų
+žmonių begaliniam daugiui. Juk, kaip sakėme, siela
+negali įsivaizduoti apibrėžto atskirų žmonių
+skaičiaus. Bet reikia pažymėti, kad šias sąvokas
+ne visi susidaro vienodai - kiekvienas susidaro
+skirtingai priklausomai nuo daikto, kuris kūną
+dažniausiai veikė ir kurį siela lengviau įsivaizduoja
+arba atsimena. Pavyzdžiui, tie, kurie dažniau
+ir nustebę įsižiūrėdavo į žmogaus figūrą, žodžiu
+„žmogus“ vadina gyvūną, kuriam būdinga
+stačia kūno padėtis; o kurie įpratę kitaip įsižiūrėti,
+susidaro kitokį bendrąjį žmonių vaizdą, būtent:
+žmogus yra gyva būtybė, gebanti juoktis, dvikojis
+gyvūnas be plunksnų, protinga gyva būtybė. Šitaip ir apie visa kita kiekvienas susidarys daiktų
+bendruosius vaizdus pagal savo kūno ypatumus.
+Todėl nenuostabu, kad tarp filosofų, siekusių gamtos
+daiktus aiškinti remiantis vien tik daiktų vaizdais,
+kilo tiek nesutarimų.
+2) pastaba. Iš viso to, kas anksčiau pasakyta,
+darosi aišku, kad mes daug ką suvokiame ir susidarome
+bendrąsias sąvokas, pirma, atskirų daiktų
+pagrindu, kai juslės juos atkuria intelektui iškreiptai,
+neaiškiai ir netvarkingai (žr. šios d.
+29 teor. pr.); todėl tokius suvokimus aš Įpratęs
+vadinti iš netvarkingo patyrimo kilusiu pažinimu.
+Antra, ženklų pagrindu, pavyzdžiui, kai girdėdami
+ar skaitydami žinomus žodžius prisimename
+daiktus ir sudarome tam tikras jų idėjas, panašias
+i tas, kuriomis remdamiesi įsivaizduojame
+daiktus (žr. šios d. 18 teor. past.). Šiuos abu daiktų
+Įžvalgos būdus ateityje vadinsiu pirmąja pažinimo
+rūšimi, nuomone arba vaizduote. Trečia, galiausiai
+tuo pagrindu, kad turime bendrąsias
+sąvokas ir daiktų savybių adekvačias idėjas (žr.
+šios d. 38 teor. pr. .39 teor. ir jos pr. ir 40 teor.).
+Šį pažinimo būdą vadinsiu protu ir antrąja pažinimo
+rūšimi. Be šių dviejų pažinimo rūšių, yra
+(tai vėliau parodysiu) ir trečia, kurią vadinsime
+intuiciniu žinojimu. Šis pažinimo būdas nuo Dievo
+kurių nors atributų formalios esmės adekvačios
+idėjos veda į daiktų esmės adekvatų pažinimą.
+Visa tai paaiškinsiu vienu pavyzdžiu. Duoti trys
+skaičiai nustatyti ketvirtajam, kuris santykiauja
+su trečiuoju taip, kaip antrasis su pirmuoju. Pirkliai
+nedvejodami padaugins antrąjį skaičių iš trečiojo ir gautą sandaugą padalys iš pirmojo -
+todėl, kad jie, žinoma, nepamiršo to, ką girdėjo iš
+savo mokytojo be jokio įrodymo, arba todėl, kad
+tai ne kartą patyrė atlikdami veiksmus su paprasčiausiais
+skaičiais, arba dėl Eukleido 7 knygos
+19 teoremos įrodymo, būtent remiantis bendrąja
+proporcijų savybe. O turint paprasčiausius
+skaičius viso to nė nereikia. Jei duoti, pavyzdžiui,
+skaičiai 1, 2, 3, tai kiekvienas mato, kad ketvirtasis
+proporcingas skaičius yra 6, ir mato daug aiškiau,
+nes išvadą apie ketvirtąjį skaičių darome
+remdamiesi pirmojo ir antrojo santykiu, kurį įžvelgiame
+iš pirmo žvilgsnio.
+
+41. teorema:
+Pirmoji pažinimo rūšis yra vienintelė klaidingumo
+priežastis, o antroji ir trečioji būtinai teisingos.
+Įrodymas. Ankstesnėje pastaboje sakėme, kad
+pirmajai pažinimo rūšiai priklauso visos tos idėjos,
+kurios yra neadekvačios ir neaiškios, ir todėl
+(pagal šios d. 35 teor.) šis pažinimas yra vienintelė
+klaidingumo priežastis. Paskui sakėme, kad antrajai
+ir trečiajai pažinimo rūšims priklauso adekvačios
+idėjos, ir todėl (pagal šios d. 34 teor.) šis
+pažinimas būtinai teisingas. Tai ir reikėjo įrodyti.
+
+42. teorema:
+Antroji ir trečioji pažinimo rūšys, bet ne pirmoji,
+moko mus skirti teisingumą nuo klaidingumo.
+Įrodymas. Si teorema savaime aiški. Juk kas
+moka skirti teisingumą nuo klaidingumo, privalo turėti adekvačią teisingumo ir klaidingumo idėją,
+t.y. (pagal šios d. 40 teor. 2 past.) pažinti teisingumą
+ir klaidingumą antrąja arba trečiąja pažinimo
+rūšimi.
+
+43. teorema:
+Kas turi teisingą idėją, tas kartu žino, kad turi teisingą
+idėją, ir dalyko teisingumu negali abejoti.
+Įrodymas. Mūsų teisinga idėja - ta, kuri adekvati
+Dieve, kiek jį išreiškia žmogaus sielos prigimtis
+(pagal šios d. 11 teor. pr.). Tad tarkime,
+kad Dieve, kiek jį išreiškia žmogaus sielos prigimtis,
+yra adekvati idėja A.
+Dieve būtinai turi būti taip pat šios idėjos idėja,
+priklausanti Dievui lygiai taip pat, kaip idėja
+A (pagal šios d. 20 teor., kurios įrodymas visuotinis).
+Tariama, kad idėja A priklauso Dievui, kiek
+jį išreiškia žmogaus sielos prigimtis, vadinasi, idėjos
+A idėja taip pat turi tuo pačiu būdu priklausyti
+Dievui, t.y. (pagal tą patį 11 teor. pr.) ši adekvati
+idėjos A idėja bus pačioje sieloje, turinčioje
+adekvačią idėją A. Taigi kas turi adekvačią idėją,
+kitaip tariant (pagal šios d. 34 teor.), kas dalyką
+pažįsta teisingai, tas privalo kartu turėti savo pažinimo
+adekvačią idėją, arba savo pažinimą teisingai
+pažinti, t.y. (tai savaime akivaizdu) privalo
+kartu būti tikras. Tai ir reikėjo įrodyti.
+Pastaba. Šios dalies 21 teoremos pastaboje aš
+paaiškinau, kas yra idėjos idėja. Bet reikia pažymėti,
+kad ankstesnė teorema pakankamai aiški
+savaime. Juk kiekvienas, turintis teisingą idėją, žino, kad teisingoje idėjoje glūdi didžiausias tikrumas,
+nes turėti teisingą idėją reiškia ne ką kita,
+kaip pažinti daiktą tobulai, t.y. kuo geriausiai.
+Žinoma, šituo niekas negali abejoti, nebent manytų,
+kad idėja yra kažkas nebylu, lyg piešinys lentoje,
+o ne mąstymo modusas, būtent pats supratimas.
+Ir kas, klausiu, gali žinoti, kad jis kurį nors
+dalyką supranta, jei anksčiau dalyko jau nesuprato,
+t.y. kas gali žinoti, kad yra tikras dėl kurio
+nors dalyko, jei anksčiau jau nebuvo dėl to dalyko
+tikras? Pagaliau, kas gali būti aiškiau ir tikriau
+už teisingą idėją kaip tiesos normą? Iš tiesų kaip
+šviesa atskleidžia pati save ir tamsą, taip tiesa
+yra ir pačios savęs, ir klaidingumo norma.
+Manau, kad tuo aš atsakiau į šiuos klausimus.
+Būtent: jei teisinga idėja skiriasi nuo klaidingos
+tik kiek ji, kaip sakoma, atitinka savo objektą, tai
+ar teisinga idėja pranoksta klaidingą kokiu nors
+realumu ar tobulumu (juk jos skiriasi tik išoriniu
+požymiu), taigi ar teisingas idėjas turintis žmogus
+kuo nors pranoksta tą, kurio idėjos vien klaidingos?
+Be to, dėl ko atsitinka taip, kad žmonių idėjos
+būna klaidingos? Ir pagaliau kaip kas nors
+gali tikrai žinoti, kad jo idėjos atitinka savo objektus?
+Aš sakau: manau, kad į šiuos klausimus jau
+atsakiau. Juk dėl skirtumo tarp teisingos ir klaidingos
+idėjos, tai iš šios dalies 35 teoremos žinoma,
+kad pirmosios santykis su antrąja toks pat,
+kaip būties santykis su nebūtimi. O klaidingumo
+priežastis aiškiausiai parodžiau 19-35 teoremose
+ir pastarosios priede. Iš to taip pat aiškus ir teisingas
+idėjas turinčio žmogaus skirtumas nuo to,
+kurio idėjos klaidingos. Galiausiai dėl paskutinio klausimo, būtent iš kur žmogus gali žinoti, kad jo
+idėja atitinka savo objektą, tai aš ką tik daugiau
+negu pakankamai parodžiau, jog tai kyla tik iš to,
+kad jo idėja atitinka savo objektą, kitaip tariant,
+kad tiesa yra norma pačiai sau. Čia reikia pridurti,
+kad mūsų siela, kiek ji daiktus teisingai suvokia,
+yra Dievo begalinio intelekto dalis (pagal šios
+d. 11 teor. pr.), ir todėl būtina, kad mūsų sielos
+aiškios ir tikslios idėjos būtų teisingos, kaip ir
+Dievo idėjos.
+
+44. teorema:
+Proto prigimčiai būdinga daiktus laikyti ne atsitiktiniais,
+bet būtinais.
+Įrodymas. Proto prigimčiai būdinga daiktus suvokti
+teisingai (pagal šios d. 41 teor.), būtent (pagal
+I d. 6 aks.) kokie jie yra patys savaime, t.y.
+(pagal I d. 29 teor.) suvokti juos esant ne atsitiktinius,
+bet būtinus. Tai ir reikėjo įrodyti.
+1 priedas. Iš to išplaukia, jog vien tik vaizduotė
+lemia, kad daiktus laikome atsitiktiniais tiek praeities,
+tiek ateities požiūriu.
+Pastaba. Keliais žodžiais paaiškinsiu, kaip tai
+įvyksta. Anksčiau parodėme (šios d. 17 teor. ir jos
+pr.), kad siela, nors daiktai ir neegzistuotų, daiktus
+vis dėlto visuomet įsivaizduoja kaip esamus,
+jei tik nėra priežasčių, šalinančių jų esamą egzistavimą.
+Paskui (šios d. 18 teor.) parodėme, kad jei
+žmogaus kūnas kartą buvo veikiamas dviejų išorinių
+kūnų vienu metu, tai siela, vėliau įsivaizduodama
+kurį nors iš jų, tuojau prisimins ir kitą, t.y. abu kūnus laikys esamais, jei nėra priežasčių, šalinančių
+jų esamą egzistavimą. Be to, niekas neabejoja,
+kad mes įsivaizduojame ir laiką, būtent
+dėl to, jog įsivaizduojame daiktus judant lėčiau
+arba greičiau vienus už kitus arba vienodu greičiu.
+Tad tarkime, kad vaikas, kuris vakar ryte
+pirmą kartą matė Petrą, o vidurdienį - Paulių ir
+vakare - Simoną, šiandien ryte vėl mato Petrą. Iš
+šios dalies 18 teoremos aišku, kad kai tik jis išvys
+ryto šviesą, įsivaizduos saulę, dangaus skliautu
+nueinančią tą patį kelią, kaip ir praėjusią dieną,
+kitaip tariant, visą dieną, o kartu su rytmečiu jis
+įsivaizduos Petrą, kartu su vidurdieniu - Paulių,
+kartu su vakaru - Simoną, t.y. Pauliaus ir Simono
+egzistavimą įsivaizduos būsimo laiko atžvilgiu.
+Ir priešingai, jei jis vakare pamatys Simoną, tai
+Paulių ir Petrą susies su praėjusiu laiku, būtent
+juos įsivaizduodamas kartu su praėjusiu laiku; ir
+šitaip jis įsivaizduos tuo tvirčiau, kuo dažniau juos
+matys ta pačia tvarka. Jei kada atsitiks taip, kad
+kada nors vakare vietoj Simono jis pamatys Jokūbą,
+tai kitą rytą kartu su vakaru jis įsivaizduos
+tai Simoną, tai Jokūbą, bet ne juos abu kartu, nes
+tariama, kad vakare jis matydavo tik vieną iš jų,
+o ne abu. Taigi jo vaizduotė svyruos, ir kartu su
+būsimu vakaru jis įsivaizduos tai vieną, tai kitą,
+t.y. nė vieno iš jų būsimame laike neįžiūrės tikrai,
+o abu įžiūrės atsitiktinai. Lygiai taip pat vaizduotė
+svyruos įsivaizduojant daiktus, apie kuriuos tuo
+pačiu būdu mąstome praėjusio arba būsimo laiko
+atžvilgiu, ir, vadinasi, mes įsivaizduosime daiktus
+atsitiktinius tiek esamo, tiek praėjusio arba būsimo
+laiko atžvilgiu. 2 priedas. Proto prigimčiai budinga daiktus suvokti
+tam tikru amžinybės požiūriu.
+Įrodymas. Juk proto prigimčiai (pagal 44 teor.)
+būdinga daiktus laikyti būtinais, o ne atsitiktiniais.
+O šį daiktų būtinumą protas pažįsta (pagal
+šios d. 41 teor.) teisingai, t.y. (pagal I d. 6 aks.)
+koks jis yra pats savaime. Bet (pagal I d. 16 teor.)
+šis daiktų būtinumas yra pats amžinos Dievo prigimties
+būtinumas. Vadinasi, proto prigimčiai būdinga
+daiktus apmąstyti šiuo amžinybės požiūriu.
+Pridursime, kad proto pagrindus sudaro sąvokos
+(pagal šios d. 38 teor.), kurios išreiškia tai, kas
+visiems daiktams bendra, o ne (pagal šios d.
+37 teor.) kokio nors atskiro daikto esmę, ir kurios
+dėl to turi būti imamos visai neatsižvelgiant į laiką,
+bet tam tikru amžinybės požiūriu. Tai ir reikėjo
+įrodyti.
+
+45. teorema:
+Bet kurio kūno, arba tikrai egzistuojančio atskiro
+daikto, kiekvienoje idėjoje būtinai glūdi Dievo amžinos
+ir begalinės esmės idėja.
+/
+Įrodymas. Tikrai egzistuojančio atskiro daikto
+idėjoje būtinai glūdi (pagal šios d. 8 teor. pr.) tiek
+daikto esmė, tiek egzistavimas. Tačiau atskiri daiktai
+(pagal I d. 15 teor.) negali būti suvokiami be
+Dievo, ir kadangi (pagal šios d. 6 teor.) jų priežastis
+yra Dievas, kiek jis traktuojamas to atributo,
+kurio modusai yra patys daiktai, požiūriu, tai jų
+idėjoje (pagal I d. 4 aks.) būtinai turi glūdėti jų atributo sąvoka, t.y. (pagal I d. 6 apibr.) Dievo
+amžina ir begalinė esmė. Tai ir reikėjo įrodyti.
+Pastaba. Egzistavimo aš čia nesuprantu kaip
+trukmės, t.y. egzistavimo, kiek jis imamas abstrakčiai
+ir kaip tam tikra kiekybės rūšis. Juk kalbu
+apie pačią egzistavimo, atskiriems daiktams
+priskiriamo dėl to, kad iš Dievo prigimties amžino
+būtinumo begale būdų kyla begalinis daugis (žr.
+I d. 16 teor.), prigimtį. Kalbu, kartoju, apie atskirų
+daiktų, kiek jie yra Dieve, patį egzistavimą.
+Juk nors kiekvienas atskiras daiktas yra kito atskiro
+daikto determinuotas tam tikru būdu egzistuoti,
+tačiau jėga, su kuria kiekvienas iš jų nesiliauja
+egzistuoti, kyla iš Dievo prigimties amžino
+būtinumo. Apie tai žr. I d. 24 teoremos priedą.
+
+46. teorema:
+Dievo amžinos ir begalinės esmės, glūdinčios kiekvienoje
+idėjoje, pažinimas yra adekvatus ir tobulas.
+Įrodymas. Ankstesnės teoremos įrodymas yra
+visuotinis. Ar daiktą imsime kaip dalį, ar kaip
+visumą, daikto - viso ar jo dalies - idėjoje glūdės
+(pagal 45 teor.) amžina ir begalinė Dievo esmė.
+Todėl tai, kas teikia amžinos ir begalinės Dievo
+esmės pažinimą, bendra visiems daiktams ir vienodai
+yra tiek dalyje, tiek visumoje, taigi (pagal
+šios d. 38 teor.) šis pažinimas bus adekvatus. Tai
+ir reikėjo įrodyti.
+
+47. teorema:
+Žmogaus siela adekvačiai pažįsta amžiną ir begalinę
+Dievo esmę.
+Įrodymas. Žmogaus siela turi idėjas (pagal šios
+d. 22 teor.), kuriomis remdamasi (pagal šios d.
+23 teor.) save, savo kūną (pagal šios d. 19 teor.) ir
+(pagal šios d. 16 teor. 1 pr. ir 17 teor.) išorinius
+kūnus pažįsta kaip tikrai egzistuojančius; taigi (pagal
+šios d. 45 ir 46 teor.) adekvačiai pažįsta amžiną
+ir begalinę Dievo esmę. Tai ir reikėjo įrodyti.
+Pastaba. Iš to matome, kad begalinę Dievo esmę
+ir jo amžinumą pažįsta visi. O kadangi viskas
+egzistuoja Dieve ir per jį suvokiama, tai iš to išplaukia,
+kad mes iš šio pažinimo galime išvesti
+daug ką, ką galime adekvačiai pažinti, ir dargi
+galime suformuoti tą trečiąją pažinimo rūšį, apie
+kurią kalbėjome šios dalies 40 teoremos 2 pastaboje
+ir apie kurios pranašumą bei naudą mes kalbėsime
+penktoje dalyje. O jei žmonės Dievo nepažįsta
+taip aiškiai, kaip pažįsta bendrąsias sąvokas,
+taip yra dėl to, kad jie negali Dievo įsivaizduoti
+taip, kaip įsivaizduoja kūnus, ir kad žodį „Dievas“
+susieja su daiktų, kuriuos įpratę matyti, vaizdais;
+šito žmonės vargu ar gali išvengti, nes juos nuolat
+veikia išoriniai kūnai.
+Ir iš tiesų daugumą klaidų sudaro tik tai, kad
+daiktus netiksliai pavadiname. Juk jei kas nors
+sako, kad iš apskritimo centro į jo lanką nubrėžtos
+linijos nelygios, tai, žinoma, apskritimu jis laiko
+ką kita negu matematikai. Taip žmonės suklysta
+ir skaičiuodami — galvoje turi vienus skaičius, o popieriuje kitus. Todėl jei žiūrėsime, ką jie turi
+galvoje, tai, žinoma, jie neklysta; tačiau mes juos
+laikome klystančiais, nes manome, kad jie turi
+galvoje tuos pačius skaičius, kurie yra ir popieriuje.
+Jei to nebūtų, tai netikėtume, kad jie klysta,
+kaip aš nepatikėjau, jog klydo žmogus, kuri neseniai
+girdėjau šaukiant, kad jo kiemas nuskrido į
+kaimyno vištą, nes jo mintis man buvo pakankamai
+skaidri.
+Iš to kyla ir dauguma nesutarimų, būtent dėl
+to, kad žmonės netiksliai išreiškia savo mintis arba
+blogai aiškina kitų mintis. Juk iš tikrųjų, kai
+vienas kitam itin prieštarauja, jie mąsto arba tą
+patį, arba ką nors skirtinga, taigi klaidų ir nesąmonių,
+kurias jie vienas kitam priskiria, visai nėra.
+
+48. teorema:
+Sieloje nėra jokios absoliučios arba laisvos valios, o
+norėti vieno ar kito siela determinuojama priežasties,
+kuri savo ruožtu determinuota kitos priežasties, ši -
+vėl kitos, ir taip iki begalybės.
+Įrodymas. Siela yra (pagal šios d. 11 teor.) tam
+tikras ir apibrėžtas mąstymo modusas ir todėl (pagal
+I d. 17 teor. 2 pr.) negali būti savo veiksmų
+laisva priežastis, kitaip tariant, negali turėti absoliutaus
+gebėjimo norėti ar nenorėti, bet tam ar
+kitam valios aktui ji (pagal I d. 28 teor.) turi būti
+determinuojama priežasties, kuri savo ruožtu determinuojama
+kitos, o ši - vėl kitos ir t.t. Tai ir
+reikėjo įrodyti.
+Pastaba.Tuo pačiu būdu įrodoma, kad sieloje
+nėra jokio absoliutaus gebėjimo suprasti, geisti, mylėti ir t.t. Iš to išplaukia, kad šie ir kiti panašūs
+gebėjimai yra arba visiškai pramanyti, arba
+tėra metafiziniai, kitaip tariant, bendrieji, esiniai,
+kuriuos paprastai sudarome iš atskirybių. Tad intelekto
+ir valios santykis su viena ar kita idėja
+arba vienu su- kitu valios aktu yra toks pat, kaip
+akmeniškumo - su vienu ar kitu akmeniu arba
+žmogaus - su Petru ir Pauliumi. O priežastį, kodėl
+žmonės mano esą laisvi, paaiškinome pirmos
+dalies priedėlyje.
+Tačiau prieš eidamas toliau turiu čia pažymėti,
+kad valią aš suprantu kaip gebėjimą teigti arba
+neigti, o ne kaip troškimą: sakau, kad suprantu
+kaip gebėjimą, dėl kurio siela teigia arba neigia,
+kas teisinga ir kas klaidinga, o ne kaip troškimą,
+dėl kurio siela siekia daiktų arba nuo jų nusigręžia.
+Bet įrodžius, kad šie gebėjimai yra bendrosios
+sąvokos, neatskiriamos nuo atskirybių, iš kurių
+jas sudarome, dabar reikia ištirti, ar patys valios
+aktai yra kas nors, be daiktų idėjų. Sakau, reikia
+ištirti, ar sielai būdingas koks nors kitas teigimas
+arba neigimas, be to, kuris glūdi idėjoje, kiek ji
+yra idėja. Apie tai žr. šios dalies 49 teoremą ir
+3 apibrėžimą, kad mąstymas nevirstų vaizdingais
+aprašymais. Juk idėjomis aš laikau ne vaizdus,
+susidarančius akies gilumoje arba, jei norite, smegenyse,
+bet mąstymo sąvokas.
+
+49. teorema:
+Sieloje nėra jokio valios akto, kitaip tariant, teiginio
+arba neigimo, išskyrus tą, kuris glūdi idėjoje, kiek ji
+yra idėja. Įrodymas. Sieloje (pagal 48 teor.) nėra absoliutaus
+gebėjimo norėti arba nenorėti, bet yra tik
+atskiri valios aktai, būtent tas ar kitas teigimas ir
+tas ar kitas neigimas. Tad imkime kurį nors atskirą
+valios aktą, pavyzdžiui, mąstymo modusą,
+kuriuo siela teigia, kad trys trikampio kampai lygūs
+dviem statiesiems. Šiame teigime glūdi trikampio
+sąvoka, arba idėja, t.y. be trikampio idėjos
+jis negali būti įsivaizduojamas. Juk kai sakau,
+kad objekte A turi glūdėti sąvoka B, tai yra tas
+pat, kaip sakyti, kad A negali būti įsivaizduojamas
+be B. Tada šio teigimo (pagal šios d. 3 aks.)
+negali ir būti be trikampio idėjos. Vadinasi, šis
+teigimas be trikampio idėjos negali nei egzistuoti,
+nei būti įsivaizduojamas. Savo ruožtu šioje trikampio
+idėjoje turi glūdėti pats šis teigimas, būtent
+kad trys jo kampai lygūs dviem statiesiems. Todėl
+ir atvirkščiai - ši trikampio idėja negali nei egzistuoti,
+nei būti įsivaizduojama be šio teigimo. Tad
+(pagal šios d. 2 apibr.) šis teigimas priklauso trikampio
+idėjos esmei ir yra ne kas kita, kaip pati
+ši esmė. Tai, ką pasakėme apie šį valios aktą (kadangi
+jį ėmėme pasirinktinai), reikia pasakyti ir
+apie kiekvieną valios aktą, būtent kad jis yra ne
+kas kita, kaip idėja. Tai ir reikėjo įrodyti.
+Priedas. Valia ir intelektas yra viena ir tas pat.
+Įrodymas. Valia ir intelektas yra ne kas kita,
+kaip patys atskiri valios aktai ir idėjos (pagal
+48 teor. ir jos past.). O atskiras valios aktas ir
+idėja (pagal 49 teor.) - viena ir tas pat. Vadinasi,
+valia ir intelektas yra viena ir tas pat. Tai ir reikėjo
+įrodyti. Pastaba. Pašalinome tą klaidų priežastį, kuri
+paprastai nurodoma. O prieš tai parodėme, kad
+klaidingumas tėra žinojimo stoka, būdinga iškreiptoms
+ir neaiškioms idėjoms. Todėl klaidinga idėja
+nepasižymi tikrumu. Tad kai sakome, kad žmogus
+pasitenkina tuo, kas klaidinga, ir tuo neabejoja,
+tai nesakome, kad jis yra tuo tikras, bet tik
+kad jis tuo neabejoja arba pasitenkina tuo, kas
+klaidinga, nes nėra priežasčių, kurios priverstų jo
+vaizduotę susvyruoti. Apie tai žr. šios dalies 44 teoremos
+pastabą. Vadinasi, nors tartume, kad žmogus
+laikosi to, kas klaidinga, vis dėlto niekad nesakysime,
+kad jis tuo tikras. Juk kaip tikrumą
+suprantame ką nors teigiama (žr. šios d. 43 teor.
+ir jos past.), o ne abejojimo nebuvimą. O tikrumo
+stoką suprantame kaip klaidingumą.
+Bet kad išsamiau paaiškintume ankstesnę teoremą,
+dar reikia kai ką priminti. Be to, reikia
+atsakyti į priekaištus, kurie gali būti pateikti šiai
+mūsų doktrinai. Pagaliau, kad pašalinčiau visas
+abejones, man atrodė verta pasidarbuoti ir atskleisti
+kai kuriuos šios doktrinos privalumus. Sakau
+„kai kuriuos“, nes svarbiausiasis bus geriau suprantamas
+iš to, kas bus kalbama penktoje dalyje.
+Taigi aš pradedu nuo pirmojo punkto ir skaitytojams
+primenu, kad idėją, arba sielos sąvoką, reikia
+tiksliau skirti nuo įsivaizduojamų daiktų vaizdų.
+Be to, būtina skirti idėjas ir žodžius, kuriais
+žymime daiktus. Juk kadangi šiuos tris dalykus,
+būtent vaizdus, žodžius ir idėjas, daugelis žmonių
+arba visiškai suplaka, arba nepakankamai tiksliai
+skiria, arba, galiausiai, skiria nepakankamai atsargiai, jie visai nekreipia dėmesio į šią valios
+doktriną, kurią tiesiog būtina žinoti tiek filosofiniais
+tikslais, tiek norint išmintingai tvarkyti gyvenimą.
+Juk manantys, kad idėjas sudaro vaizdai,
+kurie mumyse atsiranda mums susidūrus su kūnais,
+yra įsikalbėję, jog tų daiktų, kurių jokio panašaus
+vaizdo negalime susidaryti, idėjos yra ne
+idėjos, bet tik fikcijos, kurias prasimanome laisvu
+valios sprendimu. Taigi jie idėjas laiko lyg nebyliais
+piešiniais lentoje ir, pasidavę šiai išankstinei
+nuostatai, nemato, kad idėjoje, kiek ji yra idėja,
+glūdi teigimas arba neigimas. Be to, tie, kurie suplaka
+žodžius su idėjomis arba su idėjoje glūdinčiu
+pačiu teigimu, mano, kad gali norėti priešingai
+tam, ką junta, tuo tarpu jie tik žodžiais teigia
+arba neigia priešingai tam, ką junta. Tačiau šių
+išankstinių nuostatų lengvai galės atsikratyti tas,
+kas atkreips dėmesį į mąstymo prigimtį, kurioje
+visai neglūdi tįsumo sąvoka; iš to jis aiškiai supras,
+kad idėja (kadangi ji yra mąstymo modusas)
+nėra nei kurio nors daikto vaizdas, nei žodžiai.
+Juk žodžių ir vaizdų esmę sudaro vien tik kūniški
+judėjimai, kuriuose visai neglūdi mąstymo sąvoka.
+Šių kelių pastabų apie tai pakaks, todėl pereinu
+prie minėtų priekaištų.
+Pirmasis iš tų priekaištų yra nuomonė, esą valia
+aprėpia daugiau negu intelektas ir todėl nuo jo
+skiriasi. Nuomonės, kad valia aprėpia daugiau už
+intelektą, pagrindas yra tai, jog mūsų pačių patyrimas,
+kaip sakoma, rodo, kad mums nereikia didesnio,
+negu jau turime, gebėjimo sutikti, t.y. teigti
+arba neigti, esant begalinį daugį kitų daiktų, kurių nesuvokiame; veikiau mums reikia didesnio
+gebėjimo suprasti. Vadinasi, valia nuo intelekto
+skiriasi tuo, kad intelektas baigtinis, o valia begalinė.
+Antra, mums gali prieštarauti, jog, atrodo, patyrimas
+aiškiausiai moko, kad mes galime susilaikyti
+nuo sprendimo ir nesutikti su daiktais, kuriuos
+suvokiame. Sitai patvirtina ir tai, kad niekad
+nesakoma, jog kas nors apsirinka, kiek jis ką nors
+suvokia, bet tik - kiek jis su tuo sutinka arba
+nesutinka. Pavyzdžiui, kas išsigalvoja sparnuotą
+žirgą, tuo dar nepripažįsta, kad sparnuotas žirgas
+egzistuoja, t.y. tuo jis dar neapsirinka, jei tik kartu
+nepripažįsta, kad sparnuotas žirgas egzistuoja.
+Taigi, atrodo, patyrimas aiškiausiai moko, kad valia,
+t.y. gebėjimas sutikti, yra laisva ir skiriasi
+nuo gebėjimo suprasti.
+Trečia, galima prieštarauti, jog, atrodo, vienas
+teigimas apima ne daugiau realybės negu kitas,
+t.y. kad pripažintume esant teisinga tai, kas teisinga,
+mums, atrodo, nereikia didesnio gebėjimo
+negu tam, kad ką nors klaidinga pripažintume
+esant teisinga. Tačiau žinoma, kad vienoje idėjoje
+yra daugiau realumo arba tobulumo negu kitoje,
+nes kiek objektai vienas kitą pranoksta, tiek ir jų
+idėjos viena tobulesnė už kitą. Iš to esą taip pat
+atsiskleidžia valios ir intelekto skirtybė.
+Ketvirta, galima prieštarauti: jei žmogus neveikia
+laisva valia, tai kas atsitiks, jei jis bus pusiausvyroje
+kaip Buridano asilė11? Žus nuo alkio ir
+troškulio? Jei su tuo sutikčiau, tai atrodytų, kad
+kalbu ne apie žmogų, bet apie asilę arba žmogaus
+statulą. Jei nesutikčiau, tai išeitų, kad žmogus
+determinuos pats save ir, vadinasi, turi gebėjimą
+eiti ir daryti ką nori.
+Be šių, galimi ir kiti priekaištai, bet kadangi aš
+neprivalau įminti, ką kiekvienas gali paistyti, tai
+pasistengsiu atsakyti tik į šiuos priekaištus ir kiek
+galima trumpiau.
+Dėl pirmojo sakau taip: aš sutinku, kad valia
+aprėpia daugiau negu intelektas, jei intelektu laikomos
+vien tik aiškios ir tikslios idėjos; bet neigiu,
+kad valia aprėpia daugiau negu suvokimai,
+arba gebėjimas sudaryti sąvokas. Aš iš tikrųjų nematau,
+kodėl valios gebėjimas labiau turi būti vadinamas
+neribotu negu gebėjimas justi: juk kaip
+tuo pačiu valios gebėjimu mes galime teigti begalinį
+daugį (tačiau vieną po kito, nes negalime begalinį
+daugį teigti iš karto), taip tuo pačiu gebėjimu
+justi mes galime justi arba suvokti be galo
+daug kūnų (žinoma, vieną po kito). Jei kas sakys,
+kad egzistuoja begalinis daugis, kurio mes negalime
+suvokti, tai aš atsakysiu, kad to mes negalime
+pasiekti ir jokiu mąstymu, vadinasi, ir jokiu
+valios gebėjimu. Tačiau sakys: jei Dievas būtų norėjęs
+padaryti taip, kad mes ir tai suvoktume, tai
+būtų turėjęs suteikti mums didesnį, negu suteikė,
+gebėjimą suvokti, bet ne didesnį, negu suteikė,
+valios gebėjimą. Tačiau tai tas pat, kaip sakyti,
+kad jei Dievas būtų norėjęs padaryti taip, kad mes
+suprastume begalinį daugį kitų esinių, tai tam,
+kad tą begalinį daugį esinių aprėptume, būtinai
+būtų turėjęs suteikti mums didesnį intelektą, bet
+ne bendresnę esinio idėją, negu suteikė. Juk parodėme,
+kad valia yra visuotinis esinys, kitaip tariant, idėja, kuria išreiškiame visus atskirus valios
+aktus, t.y. tai, kas jiems visiems bendra. Tad
+kai ši visų valios aktų bendroji, arba visuotinė,
+idėja laikoma gebėjimu, visai nenuostabu, jei sakoma,
+kad šis gebėjimas plyti už intelekto ribų iki
+begalybės. Juk tai, kas visuotina, vienodai galioja
+ir vienam, ir daugeliui, ir begalei individų.
+Į antrąjį priekaištą atsakau neigdamas, kad mes
+turime laisvą galią susilaikyti nuo sprendimo. Juk
+kai sakome, kad kas nors susilaiko nuo sprendimo,
+tai sakome ne ką kita, o tik tai, jog jis mato,
+kad daikto nepažįsta adekvačiai. Taigi susilaikymas
+nuo sprendimo iš tikrųjų yra pažinimas, o ne
+laisva valia. Kad tai aiškiau suprastume, imkime
+vaiką, įsivaizduojantį arklį ir daugiau nieko. Kadangi
+tokiame vaizdinyje glūdi arklio egzistavimas
+(pagal šios d. 17 teor. pr.), o vaikas neįsivaizduoja
+nieko, kas šį egzistavimą pašalintų, tai jis
+būtinai laikys arklį esamu ir negalės abejoti jo
+egzistavimu, nors dėl jo nėra tikras. Tą patį mes
+kasdien patiriame sapnuose, ir aš netikiu, kad kas
+nors manytų sapnuodamas turįs laisvą galią susilaikyti
+nuo sprendimo apie tai, ką sapnuoja, ir
+padaryti taip, kad nesapnuotų to, ką sapnuoja. Ir
+vis dėlto pasitaiko, kad ir sapne mes susilaikome
+nuo sprendimo, būtent kai sapnuojame, jog regime
+sapną. Toliau aš sutinku, kad niekas neapsirinka,
+kiek jis ką nors suvokia, t.y. kad sielos vaizdiniuose
+pačiuose savaime neglūdi jokia klaida (žr.
+17 teor. past.); tačiau aš neigiu, kad suvokiantis
+žmogus nieko neteigia. Ką gi reiškia suvokti sparnuotą
+žirgą, jei ne teigti šį žirgą turint sparnus?
+Juk jei, išskyrus sparnuotą žirgą, siela nieko kito nesuvoktų, tai laikytų jį esamu, ir nebūtų jokios
+priežasties abejoti jo egzistavimu nei jokios galimybės
+jo nepripažinti, jei tik sparnuoto žirgo vaizdinys
+nesusietas su idėja, šalinančia šio žirgo egzistavimą,
+arba jei tik siela nežino, kad jos turima
+sparnuoto žirgo idėja neadekvati; tada ji arba būtinai
+neigs šį žirgą egzistuojant, arba būtinai abejos
+jo egzistavimu.
+Tuo manau atsakęs ir į trečiąjį priekaištą, būtent:
+valia yra tai, kas visuotina, priskiriama visoms
+idėjoms ir žymi tik tai, kas visoms idėjoms
+bendra, būtent teigimą. Todėl teigimo adekvati esmė,
+kiek ji imama abstrakčiai, turi būti kiekvienoje
+idėjoje ir tik šiuo požiūriu būti visose idėjose
+ta pati, bet ne kiek ji laikoma sudarančia idėjos
+esmę, nes šiuo požiūriu atskiri teigimai tarp savęs
+skiriasi taip, kaip skiriasi pačios idėjos. Pavyzdžiui,
+teigimas, glūdintis apskritimo idėjoje, skiriasi
+nuo trikampio idėjoje glūdinčio teigimo lygiai
+taip pat, kaip apskritimo idėja skiriasi nuo trikampio
+idėjos. Be to, aš absoliučiai neigiu, jog
+mums reikia vienodos mąstymo galios tiek teigti,
+kad teisinga yra tai, kas teisinga, tiek teigti, kad
+teisinga yra tai, kas klaidinga. Juk šie du teigimai
+sielos atžvilgiu yra susiję vienas su kitu taip
+pat, kaip būtis ir nebūtis, nes idėjose nėra nieko
+teigiamo, kas sudarytų klaidingumo formą (žr. šios
+d. 35 teor. bei jos past. ir 47 teor. past.). Todėl čia
+ypač reikia įsidėmėti, kaip lengvai mes suklystame,
+kai bendrybes suplakame su atskirybėmis ir
+galimus vien tik mąstyti bei abstrakčius objektus
+suplakame su realiais.
+Galiausiai, dėl ketvirtojo priekaišto aš pareiškiu,
+jog visiškai sutinku, kad žmogus, atsidūręs
+tokioje pusiausvyroje (būtent kai jis junta vien tik
+troškulį ir alkį, o maisto ir gėrimo padėta vienodu
+atstumu nuo jo), žus nuo alkio ir troškulio. Jei
+manęs paklaustų, ar tokio žmogaus nederėtų laikyti
+veikiau asilu negu žmogumi, tai sakyčiau,
+kad nežinau, kaip nežinau, kuo reikia laikyti tą,
+kuris kariasi, ir kuo reikia laikyti vaikus, kvailius,
+pamišėlius ir t.t.
+Pagaliau dar man lieka parodyti, kiek šios doktrinos
+žinojimas praverčia gyvenime, o tai lengvai
+matysime štai iš ko. Pirma, ji naudinga, nes moko
+mus elgtis vien tik pagal Dievo nurodymus ir dalyvauti
+dieviškojoje prigimtyje - ir tuo labiau, kuo
+tobulesni mūsų veiksmai ir kuo vis daugiau Dievą
+pažįstame. Vadinasi, ši doktrina ne tik teikia sielai
+visišką ramybę, bet ji naudinga dar ir tuo, kad
+išdėsto mums, kas sudaro mūsų didžiausią laimę,
+arba palaimą, būtent - vien tik Dievo pažinimas,
+skatinantis mus veikti tik taip, kaip ragina meilė
+ir pareigos jausmas. Iš to aiškiai suprantame, kaip
+toli nuo teisingo dorybės vertinimo yra tie, kurie
+už dorybę ir geriausius savo poelgius lyg už didžiausią
+paslaugą laukia iš Dievo didžiausio apdovanojimo,
+tarytum pati dorybė ir tarnavimas
+Dievui nebūtų pati laimė ir didžiausia laisvė.
+Antra, doktrina naudinga, nes moko, kaip turime
+elgtis susidūrę su likimu, kitaip tariant, su
+tuo, kas ne mūsų galioje, t.y. kas neišplaukia iš
+mūsų prigimties, - būtent ramiai laukti ir pakelti
+likimo permainas, nes visa išplaukia iš Dievo amžinosios
+nutarties taip pat būtinai, kaip iš trikampio esmės išplaukia, kad trys jo kampai lygūs
+dviem statiesiems kampams.
+Trečia, ši doktrina tinka visuomeniniam gyvenimui,
+nes ji moko, kad nieko negalima neapkęsti,
+moko neniekinti, nesityčioti, ant nieko nepykti,
+nepavydėti. Be to, moko, kad kiekvienas tenkintųsi
+tuo, ką turi, ir padėtų artimui ne iš moteriškos
+pagailos, dėl šališkumo ar prietaro, bet vien
+tik vadovaudamasis protu ir kaip tik atsižvelgdamas
+į tai, ko reikalauja laikas bei aplinkybės, -
+tai parodysiu trečioje dalyje.
+Pagaliau, ketvirta, ši doktrina nemažai tinka
+ir valstybinei bendrijai, nes moko, kaip reikia piliečius
+valdyti ir jiems vadovauti: būtent taip, kad
+jie ne vergautų, bet laisvai darytų tai, kas geriausia.
+Taigi aš atlikau tai, ką ketinau išdėstyti šioje
+pastaboje, ir tuo baigiu šią mūsų antrą dalį. Manau,
+kad joje pakankamai išsamiai ir, kiek leidžia
+dalyko sudėtingumas, pakankamai aiškiai paaiškinau
+žmogaus sielos prigimtį bei jos savybes ir
+pateikiau pažiūras, iš kurių galima padaryti daug
+puikių, labai naudingų ir žinoti būtinų išvadų -
+tai iš dalies paaiškės paskiau.
+
+Antros dalies pabaiga
